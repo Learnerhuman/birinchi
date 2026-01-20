@@ -3,8 +3,8 @@ import random
 from aiogram import Bot, Dispatcher, executor, types
 import asyncio
 
-TOKEN = "8286292205:AAHavxWX8LhMIlBDApmFv_ezvpqYrW1ZlNo"
-
+import os
+TOKEN = os.getenv("BOT_TOKEN")
 bot = Bot(token=TOKEN)
 dp = Dispatcher(bot)
 
