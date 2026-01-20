@@ -15,21 +15,21 @@ sessions = {}
 
 @dp.message_handler(commands=["start"])
 async def start(message: types.Message):
-    await message.answer("Assalomu alaykum!\nTest boshlash uchun /question deb yozing.")
+    await message.answer("Assalomu alaykum!\nTest boshlash uchun /question deb yozing.\n Savollarni ishlayotganda to'xtatishni xohlasangiz /finish")
 
 @dp.message_handler(commands=["question"])
 async def ask_range(message: types.Message):
-    await message.answer("Savollar oralig'ini kiriting. Masalan: 10-30")
+    await message.answer("Savollar oralig'ini kiriting. Masalan: 10-30\nSavollarni ishlayotganda to'xtatishni xohlasangiz /finish")
 
 @dp.message_handler(commands=["finish"])
 async def finish_test(message: types.Message):
     uid = message.from_user.id
     if uid in sessions:
         data = sessions[uid]
-        await message.answer(f"Test yakunlandi!\nNatija: {data['score']}/{data['total']}")
+        await message.answer(f"Test yakunlandi!\nNatija: {data['score']}/{data['total']}\n Yangi test ishlash uchun /question")
         del sessions[uid]
     else:
-        await message.answer("Faol test yo'q.")
+        await message.answer("Faol test yo'q.\nYangi test ishlash uchun /question")
 
 @dp.message_handler(lambda msg: "-" in msg.text)
 async def start_test(message: types.Message):
@@ -50,7 +50,7 @@ async def start_test(message: types.Message):
         await send_quiz(message.from_user.id, message.chat.id)
 
     except:
-        await message.answer("Format xato. Masalan: 1-25")
+        await message.answer("Format xato. Masalan: 1-25\nYangi test ishlash uchun /question")
 
 async def send_quiz(user_id, chat_id):
     if user_id not in sessions:
@@ -58,7 +58,7 @@ async def send_quiz(user_id, chat_id):
 
     data = sessions[user_id]
     if data["index"] >= data["total"]:
-        await bot.send_message(chat_id, f"Test tugadi!\nNatija: {data['score']}/{data['total']}")
+        await bot.send_message(chat_id, f"Test tugadi!\nNatija: {data['score']}/{data['total']}\nYangi test ishlash uchun /question")
         del sessions[user_id]
         return
 
