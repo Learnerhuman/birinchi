@@ -1,0 +1,4622 @@
+[
+    {
+      "id": 1,
+      "question": "What is the main goal of teaching “Religious Studies”?",
+      "options": [
+        "To form scientific and tolerant views among students about the history, content and role of religions in human civilization",
+        "Only teaching religious rituals and directing to practical worship",
+        "Recommending that all students choose one religious faith",
+        "Preparation to work in religious organizations"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 2,
+      "question": "What is the main subject of religious studies aimed at studying?",
+      "options": [
+        "Scientific studying of the origin, historical formation, social functions and role of religions in human life",
+        "Analyzing only religious customs and rituals",
+        "Teaching religious calling and practical prayer",
+        "Destroying all religions with a critical approach"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 3,
+      "question": "Which of the following is considered an object of religious studies?",
+      "options": [
+        "It scientifically studies the emergence and development of religious beliefs, their evolution in the progression of society",
+        "Only the beliefs of a particular religion",
+        "Folk customs and national holidays",
+        "Religious calls and propaganda"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 4,
+      "question": "What is named the comforting function of religion, one of its social, spiritual and moral functions?",
+      "options": [
+        "compensatory",
+        "legitimacy",
+        "integrative",
+        "regulatory"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 5,
+      "question": "What is named the unifying function of religion, one of its social, spiritual and moral functions?",
+      "options": [
+        "integrative",
+        "compensatory",
+        "legitimacy",
+        "regulatory"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 6,
+      "question": "What is named the control function, one of the social, spiritual and moral functions of religion?",
+      "options": [
+        "regulatory",
+        "integrative",
+        "compensatory",
+        "legitimacy"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 7,
+      "question": "Identify primitive forms of religion?",
+      "options": [
+        "Totemism, Animism",
+        "Animism, Judaism",
+        "Christianity, Islam",
+        "Totemism, Shintoism"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 8,
+      "question": "What is fetishism?",
+      "options": [
+        "Belief in inanimate objects in nature",
+        "Animal worship",
+        "Belief in gods",
+        "Belief in souls and spirits"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 9,
+      "question": "What is the first meaning of the word Hebrew?",
+      "options": [
+        "Those who have passed",
+        "Israelite generation",
+        "Israelis",
+        "Those who repented"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 10,
+      "question": "Does which function do the redeemer according to Judaism?",
+      "options": [
+        "Gathering all the Jews around the mount Zion",
+        "Uniting all people one",
+        "Punishing the wicked",
+        "Curing diseases"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 11,
+      "question": "What are the sacred and fundamental sources of Judaism?",
+      "options": [
+        "Tanakh and Talmud",
+        "Bible and Torah",
+        "Old Testament and Bible",
+        "Torah and Old Testament"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 12,
+      "question": "Identify the ancient branches of Judaism?",
+      "options": [
+        "Pharisees, Sadducees",
+        "Shias, sunnis",
+        "Jesse, Protestant",
+        "Vajrayana, Catholicism"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 13,
+      "question": "What are the types of Vedic prayers?",
+      "options": [
+        "Prayers, sacrifices for the gods",
+        "sacrifices for the gods",
+        "Prayers",
+        "Not divided into types"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 14,
+      "question": "What classes (castes) is Brahmin society based on?",
+      "options": [
+        "Brahmins, Kshatriyas, Vaishyas, Shudras",
+        "Vaishyas and Brahmins",
+        "Brahmins and Kshatriyas",
+        "Not divided into classes"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 15,
+      "question": "What was the first mosque built by Muslims in Medina?",
+      "options": [
+        "Quba Mosque Qubо mаsjidi",
+        "Juma Mosque",
+        "Sultan Ahmad Mosque",
+        "Sultan Mehmed Mosque"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 16,
+      "question": "Identify the main source of Confucianism?",
+      "options": [
+        "\"Lun-Yu\"",
+        "“Zen”",
+        "“Zhu”",
+        "“Xiao”"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 17,
+      "question": "The philosophical principles of Daoism are set forth in the book “Dao-Dejin”. Who was the author of this book?",
+      "options": [
+        "Lao Tzu",
+        "Juan-Yuan",
+        "In-Ven",
+        "Tian Peng"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 18,
+      "question": "The founder of Buddhism was Buddha. What is the meaning of this name?",
+      "options": [
+        "Enlightened one",
+        "Personal name",
+        "Tribe name",
+        "The celebrant"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 19,
+      "question": "Who was the founder of Buddhism?",
+      "options": [
+        "Siddhartha Gautama",
+        "Confucius",
+        "Laozi",
+        "The answers are incorrect"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 20,
+      "question": "When and where did Christianity originate?",
+      "options": [
+        "In Palestine at the beginning of AD",
+        "In Rome in the 3rd century BC",
+        "In Constantinople in the 3rd century AD",
+        "In Spain in the 1st century AD"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 21,
+      "question": "What divine belief does Christianity contain?",
+      "options": [
+        "Holy Trinity",
+        "Holiness",
+        "The Son and God",
+        "Father and God"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 22,
+      "question": "What sacred texts form the basis of Catholic religious doctrine?",
+      "options": [
+        "Holy book, Holy scriptures, Book of the past",
+        "Holy word",
+        "Holy Scripture",
+        "Holy label"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 23,
+      "question": "What does the term Protestantism mean?",
+      "options": [
+        "Protest (disagreement)",
+        "Generosity",
+        "Agreement",
+        "Saints of the Hereafter"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 24,
+      "question": "The Bible is a sacred book according to the theologies of Judaism and Christianity. How many parts does this book consist of and what are their names?",
+      "options": [
+        "Two; Old Testament and New Testament",
+        "Three; Old Testament, New Testament, and Holy Scriptures",
+        "Four; Matthew, Mark, Luke and John",
+        "Five; Genesis, Exodus, Leviticus, Numbers, and Deuteronomy"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 25,
+      "question": "What does the word “Rasul-Prophet” mean in Arabic?",
+      "options": [
+        "Messenger",
+        "Reporter",
+        "Good news",
+        "Ambassador"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 26,
+      "question": "Who was the author of the collection “Al-Jami’ as-Sahih”?",
+      "options": [
+        "Imam al-Bukhari",
+        "Imam at-Tirmidhi",
+        "an-Nasa’i",
+        "Ibn Majah"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 27,
+      "question": "How many covenants is Judaism based on?",
+      "options": [
+        "Ten",
+        "Six",
+        "Seven",
+        "Eight"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 28,
+      "question": "In which laws are the foundations of Brahmin casteism enshrined?",
+      "options": [
+        "In the Laws of Manu",
+        "In the laws of Vishnu",
+        "In the laws of Indra",
+        "In the laws of Adita"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 29,
+      "question": "The religion of Shinto originated in ancient Japan. What does Shinto mean?",
+      "options": [
+        "The path of the gods",
+        "The path of freedom",
+        "The right way",
+        "The path of truth"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 30,
+      "question": "The main truths emphasized by the Buddha in the early period of Buddhism are related to human life and suffering. Which of the following truths were expressed in the early period of Buddhist doctrine?",
+      "options": [
+        "It is said that suffering and its causes exist, also that it is possible to escape from it.",
+        "There are causes of suffering, but they cannot be stopped.",
+        "Suffering in life exists only in external circumstances, it is not related to internal causes.",
+        "The causes of suffering and the possibility of escape from them are not mentioned."
+      ],
+      "correct": 0
+    },
+    {
+      "id": 31,
+      "question": "Identify the main source of Buddhism?",
+      "options": [
+        "«Tripitaka»",
+        "«Avesta»",
+        "«Bible»",
+        "«Torah»"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 32,
+      "question": "What does Catholicism represent?",
+      "options": [
+        "General – secular",
+        "General - past",
+        "General – modern",
+        "General – religious"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 33,
+      "question": "The Catholic Church is a highly centralized organization. Who is the head of this church?",
+      "options": [
+        "The Pope of Rome",
+        "The Cardinal of Rome",
+        "Bishops",
+        "The Union of Roman Clergy"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 34,
+      "question": "Identify the author of the work “The Institutes of the Christian Religion”.",
+      "options": [
+        "John Calvin",
+        "Jelal al-Din Rumi",
+        "Thomas Meyer",
+        "William Willer"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 35,
+      "question": "What is the dictionary meaning of the word religion?",
+      "options": [
+        "Trust, belief",
+        "Obedience, pilgrimage",
+        "Aspiration for divinity",
+        "to believe, to give charity"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 36,
+      "question": "What is the dictionary meaning of the word “totemism”?",
+      "options": [
+        "In the Ajib language, its clan (tribe)",
+        "In Chinese, its tribe",
+        "my tribe in Hindi",
+        "your clan in Hebrew"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 37,
+      "question": "Define the meaning of the word “animism”?",
+      "options": [
+        "soul, spirit",
+        "half-living soul",
+        "dead soul",
+        "living being"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 38,
+      "question": "Define the meaning of the word “Shaman”?",
+      "options": [
+        "Wizard",
+        "Fortune teller",
+        "Psychic",
+        "Predictor"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 39,
+      "question": "What is primitive mythology?",
+      "options": [
+        "A collection of primitive man’s imagination and beliefs",
+        "Primitive man’s labor",
+        "Primitive man’s worship of totems",
+        "Primitive man’s hunting"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 40,
+      "question": "Determine the correct meaning of the word “Veda”?",
+      "options": [
+        "Wonderful book, sacred knowledge",
+        "Holy word",
+        "Holy scripture",
+        "Holy spirit"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 41,
+      "question": "The Vedas include several books written at different times and how many collections do they consist of?",
+      "options": [
+        "Four sets",
+        "Seven sets",
+        "Five sets",
+        "Eight sets"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 42,
+      "question": "Which of the following countries is considered a centre of polytheism?",
+      "options": [
+        "India",
+        "China",
+        "Pakistan",
+        "Indonesia"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 43,
+      "question": "According to the Buddha's doctrine, everything whether physical or spiritual is composed of Dharmas, that is ...?",
+      "options": [
+        "From elements",
+        "From cells",
+        "From molecules",
+        "From atoms"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 44,
+      "question": "The doctrine of Buddha are based on the ideas that \"life is suffering\" and \"there is a way to salvation.\" How many truths have these ideas found expression in?",
+      "options": [
+        "Buddha's 4 Noble Truths",
+        "Buddha's 3 Noble Truths",
+        "Buddha's 5 Noble Truths",
+        "Buddha's 6 Noble Truths"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 45,
+      "question": "Kodzhik is a book of ancient writings. This book is considered the holy book of which religion?",
+      "options": [
+        "Shinto",
+        "Buddhism",
+        "Taoism",
+        "Hinduism"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 46,
+      "question": "Motsuri is a religious holiday associated with the beginning of agricultural work and the harvest, and belongs to which people?",
+      "options": [
+        "Japanese",
+        "Chinese",
+        "Indian",
+        "Jewish"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 47,
+      "question": "The Torah, the main written source of Judaism, is considered the most sacred book for Jews. How many main books does this religious source consist of? Yahudiylik dinining asosiy yozma manbasi bo‘lgan Tavrot yahudiylar uchun eng muqaddas kitob hisoblanadi. Ushbu diniy manba nechta asosiy kitobdan iborat?",
+      "options": [
+        "5 books – The Torah is called the “Five Books” and is considered the most important religious foundation for Jews.",
+        "6 books – Other historical and moral writings are also included in the Torah",
+        "7 books – The Torah is considered to contain the entire Tanakh",
+        "3 books – Jews believe that the Torah is a short source consisting only of religious laws."
+      ],
+      "correct": 0
+    },
+    {
+      "id": 48,
+      "question": "The concept of “rabbi” plays an important role in the religious system of Judaism. From ancient times to the present day, he has been seen as a leading figure in religious life. What does this term mean?",
+      "options": [
+        "A scholar or teacher who is religiously knowledgeable and known among the people for his wisdom.",
+        "An organizational leader, that is a person who holds a political, rather than a religious, position among Jews.",
+        "A simple church worker serving local communities.",
+        "A special person who presides over the sacrificial ceremonies."
+      ],
+      "correct": 0
+    },
+    {
+      "id": 49,
+      "question": "What doctrine does Buddhism oppose?",
+      "options": [
+        "To casteism",
+        "To Moksha",
+        "To Artha",
+        "Vahumana"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 50,
+      "question": "What does the word animism mean?",
+      "options": [
+        "belief in the soul",
+        "Belief that inanimate objects have supernatural powers",
+        "Belief in shamans",
+        "Trust in man, in a priest"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 51,
+      "question": "What kind of religion is Judaism?",
+      "options": [
+        "The national religion of the Jews.",
+        "African religion",
+        "Asian religion",
+        "European religion"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 52,
+      "question": "What does the word Buddha mean?",
+      "options": [
+        "Enlightened, having attained the highest truth",
+        "The one who fulfills the task",
+        "Knowledgeable, intelligent",
+        "Master"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 53,
+      "question": "Who was the founder of Christianity?",
+      "options": [
+        "Jesus",
+        "Shiva",
+        "Judas",
+        "Moses"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 54,
+      "question": "What is Christmas?",
+      "options": [
+        "The birth of Jesus Christ",
+        "New Year",
+        "The feast of the Bibi Maryam",
+        "The birth of Luke"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 55,
+      "question": "Shinto is the religion of which nation?",
+      "options": [
+        "Japanese",
+        "Chinese",
+        "Korean",
+        "Indian"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 56,
+      "question": "What did Arabs worship before Islam?",
+      "options": [
+        "To pagans",
+        "To rocks",
+        "To various natural phenomena",
+        "To God"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 57,
+      "question": "What is Sharia?",
+      "options": [
+        "The right path, the divine path, legislation, in which, in addition to purely legal issues, moral norms and practical religious requirements are also given the form of law",
+        "A set of laws and regulations",
+        "A set of religious and moral views",
+        "A religious madhhab"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 58,
+      "question": "Who is Sheikh ul-Islam?",
+      "options": [
+        "Head of Islamic organizations, highest religious title",
+        "Supreme cleric of Caucasian Muslims",
+        "Large landowner, nobleman",
+        "Large feudal lord"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 59,
+      "question": "What is the main holy book of Christianity?",
+      "options": [
+        "Bible",
+        "Quran",
+        "Vedas",
+        "Tripitaka"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 60,
+      "question": "What does the Trinity (Trinitarianism) mean in Christian theology?",
+      "options": [
+        "Belief in the unity of the Father, Son, and Holy Spirit",
+        "Anti-paganism",
+        "The belief that God is one",
+        "Worship of only the Son and the Holy Spirit"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 61,
+      "question": "What are the “Synoptic Injils” in Christianity?",
+      "options": [
+        "The Injils of Matthew, Mark and Luke",
+        "The entire Bible",
+        "Only the Injil of John",
+        "All the books of the New Testament"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 62,
+      "question": "What does the “Cross\", one of the main symbols of Christianity, mean?",
+      "options": [
+        "The Crucifixion of Jesus Christ and Salvation",
+        "The Miracles of Jesus Christ",
+        "Loyalty and Service",
+        "Resistance to Evil"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 63,
+      "question": "Who is the supreme leader of the Catholic Church?",
+      "options": [
+        "The Pope of Rome",
+        "Patriarch",
+        "Archbishop",
+        "Pastor"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 64,
+      "question": "What does the Easter mean in Christianity?",
+      "options": [
+        "The day of the resurrection of Jesus Christ",
+        "The day the Bible was written",
+        "The day Jesus Christ was born",
+        "The day he was crucified"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 65,
+      "question": "What kind of branch of Christianity is Protestantism?",
+      "options": [
+        "A movement formed as a result of the Counter-Reformation against Catholicism",
+        "Only an ancient way of worship",
+        "Part of Eastern Orthodoxy",
+        "Total allegiance to the Pope of Rome"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 66,
+      "question": "What consequences did the \"Great Schism\" (1054) have in the history of Christianity?",
+      "options": [
+        "The division into Catholic and Orthodox churches",
+        "The transfer of Christianity to Rome",
+        "The writing of the New Testament",
+        "The formation of Protestantism"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 67,
+      "question": "What holiday is celebrated as the birthday of Jesus Christ?",
+      "options": [
+        "Christmas",
+        "Easter",
+        "Epiphany",
+        "Holy Thursday"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 68,
+      "question": "What event is the holiday of “Easter” dedicated to in Christianity?",
+      "options": [
+        "The resurrection of Jesus Christ",
+        "The birth of Jesus Christ",
+        "The crucifixion of Jesus Christ",
+        "The writing of the New Testament"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 69,
+      "question": "During which ruler was Christianity declared a legal religion in the Roman Empire?",
+      "options": [
+        "Constantine I",
+        "Theodosius I",
+        "Augustus",
+        "Nero"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 70,
+      "question": "Where is located the largest center of the “Catholic” branch of Christianity?",
+      "options": [
+        "Rome",
+        "Moscow",
+        "London",
+        "Constantinople"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 71,
+      "question": "What does the sacrament of the Eucharist mean in Christianity?",
+      "options": [
+        "To receive the body and blood of Jesus Christ",
+        "To pray for reconciliation with God",
+        "To fast only",
+        "To pray to the Holy Spirit"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 72,
+      "question": "What was written in the Bible?",
+      "options": [
+        "A holy book containing the message of the life, death and resurrection of Jesus Christ",
+        "A work describing the events after the death of Jesus Christ",
+        "A prayer book for Christians",
+        "New laws given by God"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 73,
+      "question": "Which Injil tells the story of the life of Jesus Christ?",
+      "options": [
+        "The Injils of Matthew, Mark, Luke and John",
+        "The Injil of Mark, the Injil of John",
+        "The Injil of Luke",
+        "The Injil of Matthew"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 74,
+      "question": "What is one of the oldest branches of Christianity?",
+      "options": [
+        "Orthodox",
+        "Mahayana",
+        "Evangelical",
+        "No correct answer"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 75,
+      "question": "Which factor is considered the most important thing in the “Catholic” branch?",
+      "options": [
+        "The rule of the Pope",
+        "The pursuit of good deeds",
+        "Pilgrimage",
+        "Adornment"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 76,
+      "question": "What is one of the most important holidays for Orthodox Christians?",
+      "options": [
+        "Easter",
+        "Eid",
+        "Sukkot",
+        "Feast of the Neighbor"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 77,
+      "question": "Who was the founder of the “Protestant” branch in Christianity?",
+      "options": [
+        "Martin Luther",
+        "Jesus Christ",
+        "Paul",
+        "John the Baptist"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 78,
+      "question": "Where is located the center of the “Orthodox” branch of Christianity?",
+      "options": [
+        "Constantinople",
+        "Rome",
+        "London",
+        "New York"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 79,
+      "question": "For which religious group is the Bible considered a holy book?",
+      "options": [
+        "For Christians",
+        "For Jews",
+        "For Muslims",
+        "For Buddhists"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 80,
+      "question": "How is the “Public Prayer” usually performed in Protestants?",
+      "options": [
+        "With clear and short speeches",
+        "In a special prayer language (Latin)",
+        "Without the participation of all church members",
+        "Led only by a religious leader"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 81,
+      "question": "In the history of Christianity, the branch “Protestantism” emerged as a counter-reformation to the policies of the Catholic Church. Which of the following periods corresponds to the emergence of this branch?",
+      "options": [
+        "16th century – during this period, the Catholic Church was criticized by Martin Luther, the Reformation began with the “95 Theses” in 1517 and Protestantism was formed",
+        "The 17th century was a period when Protestantism was already established and began to spread widely.",
+        "15th century - although there was some religious criticism during this period, the branch that would become known as Protestantism had not yet emerged.",
+        "The 13th century was a period of intense medieval Catholicism with the power of the church being strengthened rather than reformed."
+      ],
+      "correct": 0
+    },
+    {
+      "id": 82,
+      "question": "What is the purpose of the “Worship of the Cross” prayer in Orthodoxy?",
+      "options": [
+        "Expressing deep reverence for God",
+        "Cleansed from sins",
+        "Proclaiming the Gospel",
+        "Preparation for fasting"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 83,
+      "question": "What event is described most often in the Injil?",
+      "options": [
+        "Miracles and teachings of Jesus Christ",
+        "The story of Moses",
+        "Noah's ark",
+        "Other people who performed miracles"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 84,
+      "question": "What is the purpose of fasting in Orthodoxy?",
+      "options": [
+        "For spiritual purification and deeper focus on prayer",
+        "In preparation for the pilgrimage",
+        "To better study the Bible",
+        "Before celebrating the New Year"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 85,
+      "question": "How is Jesus Christ interpreted in Christianity?",
+      "options": [
+        "Mediator between God and man",
+        "Only a Jewish religious leader",
+        "A person who actively performed miracles",
+        "A Christian saint"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 86,
+      "question": "Which book is considered sacred in Christianity?",
+      "options": [
+        "Bible",
+        "Quran",
+        "Torah",
+        "Vedas"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 87,
+      "question": "What is the “Catholic” branch in Christianity?",
+      "options": [
+        "A religious branch based on the Pope of Rome",
+        "Protestant-based branch",
+        "Orthodox branch",
+        "Evangelical branch"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 88,
+      "question": "What does the death of Jesus Christ mean in Christianity?",
+      "options": [
+        "The salvation of mankind from sin",
+        "The spreading of God’s light",
+        "The end of the world",
+        "The writing of religious books"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 89,
+      "question": "What does the “14 Stations of the Cross” ceremony mean in Catholic branch?",
+      "options": [
+        "Remembering the suffering of Jesus Christ on the Way of the Cross",
+        "Special days dedicated to saints",
+        "Celebrating Easter",
+        "Reading new chapters of the Bible"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 90,
+      "question": "Why don’t Protestants worship saints?",
+      "options": [
+        "Prefers to pray directly to God",
+        "Rejects notions of saints",
+        "Declares that no one can replace Jesus Christ",
+        "Says that they are not in harmony with the Bible"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 91,
+      "question": "What are traditional activities related to Easter?",
+      "options": [
+        "Coloring and drawing Easter eggs",
+        "Praying with the Pope",
+        "Lighting a candle",
+        "Baptism"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 92,
+      "question": "Which of the following symbols used during Easter is one of the most common among the people, signifying life, renewal and the arrival of spring?",
+      "options": [
+        "Colored Eggs and the Easter Bunny",
+        "Books about Mythical Heroes",
+        "Frozen Desserts and Confectionery",
+        "Wild Animals Living in Mountainous Regions"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 93,
+      "question": "What is usually eaten at Easter?",
+      "options": [
+        "Easter bread and colored eggs",
+        "Different Christmas dishes",
+        "Corn and meat",
+        "Fruits and vegetables"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 94,
+      "question": "What is the name of the divine book that was revealed by Allah Almighty to the Prophet Muhammad, verse by verse over a period of 23 years?",
+      "options": [
+        "Quran",
+        "Sahifas",
+        "Zabur",
+        "Torah"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 95,
+      "question": "Which of the following books are considered heavenly books?",
+      "options": [
+        "Torah, Zabur, Bible, Quran",
+        "Avesta, Zabur, Bible, Quran",
+        "Torah, Tri-pitaka, Bible, Quran",
+        "Torah, Zabur, Rigveda, Quran"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 96,
+      "question": "The word Quran is derived from which of the following verbs (in Arabic)?",
+      "options": [
+        "“To read”",
+        "“To point”",
+        "“To listen”",
+        "“To rest”"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 97,
+      "question": "How many surahs does the Quran consist of?",
+      "options": [
+        "114",
+        "115",
+        "116",
+        "113"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 98,
+      "question": "Which of the following words has meanings such as “fortress”, “destination”, “honor”?",
+      "options": [
+        "surah",
+        "ayah",
+        "hadith",
+        "sunnah"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 99,
+      "question": "Which of the following words has meanings such as “miracle”, “sign”, “omen”?",
+      "options": [
+        "ayah",
+        "surah",
+        "hadith",
+        "sunnah"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 100,
+      "question": "In which city (cities) were the Surahs of the Quran revealed?",
+      "options": [
+        "Mecca, Medina",
+        "Mecca, Medina, Taif",
+        "Mecca, Medina, Jerusalem",
+        "Mecca"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 101,
+      "question": "Why wasn’t the Quran compiled into a book during the lifetime of the Prophet Muhammad?",
+      "options": [
+        "It was assumed that another revelation could be revealed.",
+        "Because there was no need to compile the Quran into a book at this time.",
+        "Because of the possibility of mixing it with the hadiths,",
+        "Muslims were mainly busy with conquests at this time, so they did not have the opportunity to do so."
+      ],
+      "correct": 0
+    },
+    {
+      "id": 102,
+      "question": "What caused the Quran to be compiled and written down for the first time during the reign of caliph Abu Bakr Siddiq?",
+      "options": [
+        "After many reciters were killed because of the battles of “Ridda”, Umar ibn al-Khattab proposed to put the Quran in writing to convey it to future generations.",
+        "Because Prophet Muhammad had bequeathed the Quran to be written in book form.",
+        "When the Caliphate expanded as a result of the conquests in order to teach the Quran to the people of distant lands.",
+        "After the Sahabas made ijtihad"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 103,
+      "question": "Which of the following individuals was entrusted with the task of writing down the Quran?",
+      "options": [
+        "Zayd ibn Thabit (r.a.)",
+        "Abdullah ibn Abbas (r.a.)",
+        "Abdullah ibn Uthman (r.a.)",
+        "Abdullah ibn Umar (r.a.)"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 104,
+      "question": "In which city is the Mushaf belonging to Caliph Uthman kept today?",
+      "options": [
+        "Tashkent",
+        "Cairo",
+        "Istanbul",
+        "Medina"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 105,
+      "question": "Who brought the Mushaf of Uthman from Basra to Samarkand in the Middle Ages?",
+      "options": [
+        "Amir Temur",
+        "Ismail Samani",
+        "Mirzo Ulugbek",
+        "Mironshah Mirzo"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 106,
+      "question": "Which of the following words has the lexical meaning of “word”, “new”, “conversation”, “story”, “narration”?",
+      "options": [
+        "Hadith",
+        "Surah",
+        "Ayah",
+        "Sunnah"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 107,
+      "question": "In Islamic doctrine which source is relied upon primarily when determining the criteria of belief and resolving jurisprudential issues?",
+      "options": [
+        "Quran",
+        "Hadith",
+        "Ijma",
+        "Qiyas"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 108,
+      "question": "Identify the second most important source in Islamic docrine for determining the criteria of belief and resolving jurisprudential issues?",
+      "options": [
+        "Hadith",
+        "Ra’y",
+        "Ijma",
+        "Qiyas"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 109,
+      "question": "Identify the third source in Islamic doctrine for determining the criteria of belief and resolving jurisprudential issues?",
+      "options": [
+        "Ijma",
+        "Ra’y",
+        "Istihsan",
+        "Qiyas"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 110,
+      "question": "Identify the fourth source in Islamic doctrine for determining the criteria of belief and resolving jurisprudential issues?",
+      "options": [
+        "Qiyas",
+        "Ra’y",
+        "Istihsan",
+        "Ijma"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 111,
+      "question": "What are the sayings, actions and taqrirs of Prophet Muhammad called?",
+      "options": [
+        "Hadith",
+        "Ra’y",
+        "Ijma",
+        "Qiyas"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 112,
+      "question": "Which of the following words literally means “tradition”, “tariqat-way”?",
+      "options": [
+        "Sunnah",
+        "Hadith",
+        "Surah",
+        "Ayah"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 113,
+      "question": "What are the habits, ways, taqrirs and commands of Prophet Muhammad called?",
+      "options": [
+        "Sunnah",
+        "Ra’y",
+        "Ijma",
+        "Qiyas"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 114,
+      "question": "Why were the hadiths not collected and compiled in the time of Prophet Muhammad?",
+      "options": [
+        "Because there was a risk that the hadiths would be mixed with the ayahs of the Quran",
+        "Because there was no need to compile the hadiths in the time of Prophet Muhammad.",
+        "Because the number of Sahabas who knew how to write was small",
+        "Because the Muslims were mainly busy with conquests during this time, they could not find the opportunity to do so."
+      ],
+      "correct": 0
+    },
+    {
+      "id": 115,
+      "question": "Which famous hadith collection(s) is/are entitled “Al-Jami’ as-Sahih”?",
+      "options": [
+        "Imam Bukhari, Imam Muslim",
+        "Imam Bukhari",
+        "Imam Muslim",
+        "Imam Muslim, Abu Dawud"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 116,
+      "question": "What is the term used to describe the consensus of prominent Islamic scholars on issues not explicitly stated in the Quran and Hadith, which does not contradict these authoritative sources?",
+      "options": [
+        "Ijma",
+        "Qiyas",
+        "Ra’y",
+        "Istihsan"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 117,
+      "question": "What is the name of the type of hadith in which the meaning is from Allah and the wording is from the Prophet?",
+      "options": [
+        "Al-Hadith al-qudsi",
+        "Al-Hadith an-nabawi",
+        "Sahih",
+        "Hasan"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 118,
+      "question": "What is the name of the type of hadith in which both the meaning and the wording belong to the Prophet?",
+      "options": [
+        "Al-Hadith an-Nabawi",
+        "Al-Hadith al-Qudsi",
+        "Sahih",
+        "Hasan"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 119,
+      "question": "Which type of hadith collections is most reliable?",
+      "options": [
+        "“Al-Jami’ as-Sahih”",
+        "“As-Sunan”",
+        "“Mu’jam”",
+        "“Musnad”"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 120,
+      "question": "Which of the following words in Arabic means “speech”, “conversation”, “language”, “speaking” and “statement”?",
+      "options": [
+        "Kalam",
+        "Aqeedah",
+        "Fiqh",
+        "Hadith"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 121,
+      "question": "What is the doctrine that defines the faith, belief and worldview of a Muslim called?",
+      "options": [
+        "Kalam",
+        "Fiqh",
+        "Sunnah",
+        "Sufi"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 122,
+      "question": "Which of the following words means “to bind one thing firmly to another”?",
+      "options": [
+        "Aqeedah",
+        "Kalam",
+        "Fiqh",
+        "Hadith"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 123,
+      "question": "Where was the founder of the Maturidi school from?",
+      "options": [
+        "Mawarannahr",
+        "Iran",
+        "India",
+        "Egypt"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 124,
+      "question": "Which of the following words means to study something thoroughly and understand it to the smallest detail?",
+      "options": [
+        "Fiqh",
+        "Kalam",
+        "Aqeedah",
+        "Tawhid"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 125,
+      "question": "What is the science that studies the Sharia rulings related to prayer, fasting, hajj and marriage called?",
+      "options": [
+        "Fiqh",
+        "Kalam",
+        "Aqeedah",
+        "Sufism"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 126,
+      "question": "Who was the founder of the Hanafi jurisprudential school?",
+      "options": [
+        "Imam Abu Hanifa",
+        "Imam Malik ibn Anas",
+        "Imam Muhammad ibn Idris al-Shafi’i",
+        "Imam Ahmad ibn Hanbal"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 127,
+      "question": "Which of the leaders of the “Ahli Sunnah wal Jama’ah” branch was known as the “Great Imam”?",
+      "options": [
+        "Imam Abu Hanifa",
+        "Imam Malik ibn Anas",
+        "Imam Muhammad ibn Idris al-Shafi’i",
+        "Imam Ahmad ibn Hanbal"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 128,
+      "question": "From which teacher did Imam Abu Hanifa learn the science of fiqh?",
+      "options": [
+        "Hammad ibn Abu Sulayman",
+        "Imam Sha’bi",
+        "Ibrahim Nahai",
+        "Muhammad Baqir"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 129,
+      "question": "Which fiqh sources and methods did Imam Abu Hanifa refer to most in issuing rulings?",
+      "options": [
+        "Qiyas and Istihsan",
+        "Ijma and Qiyas",
+        "Istihsan and Urf",
+        "Ra’y and Urf"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 130,
+      "question": "What is the principle of taking the most beneficial side for Muslims from the conclusions drawn?",
+      "options": [
+        "Istihsan",
+        "Qiyas",
+        "Ijma",
+        "Urf"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 131,
+      "question": "Which student of Imam Abu Hanifa developed the theoretical foundations of the Hanafi jurisprudential school?",
+      "options": [
+        "Muhammad ibn Hasan Shaybani",
+        "Abul Huzayl",
+        "Hasan ibn Ziyad",
+        "Abu Yusuf"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 132,
+      "question": "Which of the following words literally means “to seek an answer to a difficult matter”, “to answer a question”, “the conclusion of a mufti”?",
+      "options": [
+        "“Fatwa”",
+        "“Fiqh”",
+        "“Sharia”",
+        "“Ijtihad”"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 133,
+      "question": "What is the person who judges (issues a fatwa) regarding the rulings of Sharia called?",
+      "options": [
+        "Mufti",
+        "Shaykhul-Islam",
+        "Mujtahid",
+        "Imam"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 134,
+      "question": "Which of the following words literally means “path”, “direction” and “religious faith”?",
+      "options": [
+        "Madhhab",
+        "Sharia",
+        "Sunnah",
+        "Fiqh"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 135,
+      "question": "Which madhhab of the “Ahli Sunnah wal Jama’ah” branch can be said to have developed its legal system, in a certain sense, on the basis of the religious and legal madhhabs of the Hanafi and Malikis?",
+      "options": [
+        "Shafi’i",
+        "Hanbali",
+        "Maturidi",
+        "Ash’ari"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 136,
+      "question": "Which madhhab of the “Ahli Sunnah wal Jama’ah” has a legal system that is closest to the Malikis?",
+      "options": [
+        "Shafi’i",
+        "Hanbali",
+        "Hanafi",
+        "Ash’ari"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 137,
+      "question": "Which of the following scholars from Transoxiana was a prominent representative of the Shafi’i school?",
+      "options": [
+        "Muhammad Qaffal Shashi",
+        "Abul Yusr Pazdavi",
+        "Ala al-Din Samarqandi",
+        "Abu Hafs Kabir Bukhari"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 138,
+      "question": "Identify the class of mujtahids-scholars who deal with issues related to Sharia rulings, explain and convey them to the public?",
+      "options": [
+        "Faqihs",
+        "Muhaddises",
+        "Mufassirs",
+        "Mutakallims"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 139,
+      "question": "What is the main goal of Sufism?",
+      "options": [
+        "Attaining spiritual purity",
+        "Accumulating wealth",
+        "Gaining political power",
+        "Making scientific discoveries"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 140,
+      "question": "What is the first stage of the path to spiritual perfection in Sufism?",
+      "options": [
+        "Sharia",
+        "Ma’rifat (Enlightenment)",
+        "Haqiqat (Truth)",
+        "Ruhiyat (Spirit)"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 141,
+      "question": "What does the concept of “zahir” mean in Sufism?",
+      "options": [
+        "Appearance and actions",
+        "Spiritual meaning",
+        "Mysterious knowledge",
+        "Social relations"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 142,
+      "question": "Which of the following scholars is considered a representative of the science of Sufism?",
+      "options": [
+        "Jalal al-Din Rumi",
+        "Ibn Sina",
+        "Al-Farabi",
+        "Abu Hanifa"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 143,
+      "question": "Why is the “Chilla” ceremony performed in Sufism?",
+      "options": [
+        "For spiritual purification and self-realization",
+        "For celebration",
+        "For socialization",
+        "For learning"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 144,
+      "question": "What does “Tariqat” mean?",
+      "options": [
+        "Path to Allah",
+        "Science",
+        "Trade route",
+        "Political movement"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 145,
+      "question": "Who is one of the famous poets who left his mark on Sufism?",
+      "options": [
+        "Alisher Navai",
+        "Muhammad Yusuf",
+        "Nadira",
+        "Babur"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 146,
+      "question": "Who is the author of the famous work “Masnavi”?",
+      "options": [
+        "Rumi",
+        "Attar",
+        "Jami",
+        "Ghazali"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 147,
+      "question": "What concept did Ibn Arabi develop in Sufism?",
+      "options": [
+        "Wahdat al-wujud (unity of being)",
+        "Tafsir",
+        "Sharia law",
+        "Criteria of justice"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 148,
+      "question": "Rubaiyat is a four-line poem that often expresses philosophical and mystical ideas. Which of the following poets has deeply and effectively expressed the philosophy of Sufism through this genre?",
+      "options": [
+        "Omar Khayyam",
+        "Hafiz Shirazi",
+        "Rudaki",
+        "Jami"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 149,
+      "question": "How is the main task of man interpreted in the philosophy of Sufism?",
+      "options": [
+        "To educate oneself and draw closer to Allah",
+        "To serve society",
+        "To study nature",
+        "To take over the government"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 150,
+      "question": "What does the concept of “ma’rifat” (enlightenment) mean in Sufism?",
+      "options": [
+        "Inner knowledge and understanding of divine truth",
+        "Scientific research",
+        "External appearance",
+        "Written literature"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 151,
+      "question": "What is the purpose of the prayer of “dhikr” in Sufism?",
+      "options": [
+        "Purifying the soul and constantly remembering Allah",
+        "Praying in congregation",
+        "Praying for trade",
+        "Gaining political power"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 152,
+      "question": "What is the concept of “nafs” in Sufism?",
+      "options": [
+        "It refers to a person’s bad habits and desires.",
+        "It refers to the inner strength necessary for a person’s spiritual growth.",
+        "It refers to a person’s own personality.",
+        "It refers to a person’s need for knowledge."
+      ],
+      "correct": 0
+    },
+    {
+      "id": 153,
+      "question": "What is the theory of Wahdat al-wujud about?",
+      "options": [
+        "About the oneness of Allah with all beings",
+        "About the Islamic legal system",
+        "About philosophical materialism",
+        "About the structure of the state"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 154,
+      "question": "What is the main difference between “Tariqat” and “Sharia”?",
+      "options": [
+        "Sharia - external practices, Tariqat - internal spiritual path",
+        "Sharia - divine love, Tariqat - sensual pleasure",
+        "Sharia - set of rules, Tariqat - secular sciences",
+        "Sharia - religious rituals, Tariqat - political movement"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 155,
+      "question": "Who is a “murshid” in Sufism?",
+      "options": [
+        "A teacher-sheikh of a tariqa",
+        "A poet",
+        "A musician",
+        "A teacher of the Quran"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 156,
+      "question": "Who were the “dervishes” in Eastern culture?",
+      "options": [
+        "Sufi travellers",
+        "Scientists",
+        "Rulers",
+        "Merchants"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 157,
+      "question": "How does Sufism affect human relationships in society?",
+      "options": [
+        "Sincere relations increase among Muslims",
+        "Political power increases",
+        "Only the rich benefit",
+        "Social injustice increases"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 158,
+      "question": "What are the moral benefits of Sufism to society?",
+      "options": [
+        "Promotes purity and sincerity",
+        "Only useful for merchants",
+        "Strengthens political power",
+        "Develops philosophical debate"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 159,
+      "question": "What is the main function of Sufi tariqats?",
+      "options": [
+        "Bringing people closer to Allah",
+        "Developing sciences",
+        "Seizing political power",
+        "Strengthening trade relations"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 160,
+      "question": "How does Sufism influence humanistic principles?",
+      "options": [
+        "By increasing tolerance in society",
+        "By pursuing only political interests",
+        "By achieving material wealth",
+        "By managing natural resources"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 161,
+      "question": "In what way did Sufism have the greatest influence on Eastern culture?",
+      "options": [
+        "Through poetry and music",
+        "Through trade and economics",
+        "Through construction work",
+        "Through military policy"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 162,
+      "question": "What is the main meaning of Sufi clothing?",
+      "options": [
+        "To reflect naturalness and modesty",
+        "To display luxury and wealth",
+        "To show worldly status",
+        "To promote modern style"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 163,
+      "question": "What values are included in the basic principles of Islam?",
+      "options": [
+        "Justice, patience, piety",
+        "Property, power, will",
+        "Anger, wealth, honor",
+        "Thrift, jealousy, self-interest"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 164,
+      "question": "What is the most important part of self-discipline in Islam?",
+      "options": [
+        "Improving behavior",
+        "Financial independence",
+        "Involvement in community work",
+        "Prohibition of acquiring knowledge"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 165,
+      "question": "What is the highest duty of man according to Islamic doctrine?",
+      "options": [
+        "To do good and follow divine instructions",
+        "To acquire wealth",
+        "To gain worldly power",
+        "To reject humility"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 166,
+      "question": "The hadith that states “Seeking knowledge is obligatory upon every Muslim” sheds light on the place and importance of knowledge in society. Which of the following topics is directly related to this hadith?",
+      "options": [
+        "Importance of Enlightenment",
+        "Trade",
+        "Political Administration",
+        "Military Affairs"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 167,
+      "question": "Which of the following options is considered the most important direction in developing Islamic values?",
+      "options": [
+        "Knowledge acquisition and application",
+        "Propaganda only",
+        "Political pressure",
+        "Technological development"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 168,
+      "question": "In Islam, knowledge and education are essential not only for the study of religion, but also for the all-round development of a person. In Islam, acquiring knowledge is not limited to a specific group or individual, but is considered necessary for every Muslim. How is the role of knowledge and education seen in Muslim society?",
+      "options": [
+        "Equally necessary for women and men",
+        "Applicable only to men",
+        "Applicable only to religious leaders",
+        "Adapted to technical specialists"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 169,
+      "question": "Who has the right to seek knowledge in Islam?",
+      "options": [
+        "Every Muslim",
+        "Only men",
+        "Only rich people",
+        "Only religious scholars"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 170,
+      "question": "What does one of the names of Allah, “Al-Adl” mean?",
+      "options": [
+        "The Just",
+        "The Wise",
+        "The Merciful",
+        "The Powerful"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 171,
+      "question": "What factors are used to express enlightenment in Islam?",
+      "options": [
+        "Faith, knowledge, action",
+        "Wealth, power, attention",
+        "Politics, trade, strength",
+        "Only military strategies"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 172,
+      "question": "What does the word “Ziyo” mean in Islamic enlightenment?",
+      "options": [
+        "Knowledge and light",
+        "Power",
+        "Financial independence",
+        "Only religious education"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 173,
+      "question": "What does Islam focus on?",
+      "options": [
+        "Moral purity and spiritual elevation",
+        "Material prosperity",
+        "Only the political system",
+        "Only financial wealth"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 174,
+      "question": "How is “thinking” commanded in the Holy Quran?",
+      "options": [
+        "It is stated as necessary for every believer",
+        "It is stated as a useless waste of time",
+        "It is said to be only for humans",
+        "It is only related to worldly affairs"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 175,
+      "question": "How is an enlightened person described?",
+      "options": [
+        "Humble, patient, and knowledgeable",
+        "Valuing wealth",
+        "Possessing only worldly knowledge",
+        "Only reading religious books"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 176,
+      "question": "Who is a scholar who studies hadith?",
+      "options": [
+        "Muhaddis",
+        "Scholar",
+        "Obid",
+        "Zohid"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 177,
+      "question": "What are the theoretical and ideological sources of Islam?",
+      "options": [
+        "The Holy Quran, Hadiths",
+        "Hidaya",
+        "Tafsir Hilal",
+        "Sunan Tirmidhi"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 178,
+      "question": "What is the meaning of the word Quran?",
+      "options": [
+        "To read",
+        "To know",
+        "To learn",
+        "To give"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 179,
+      "question": "What are the main pillars of Islam?",
+      "options": [
+        "Faith, prayer, fasting, zakat, hajj",
+        "Asceticism, umrah, worship",
+        "Humility, morality, etiquette, spirituality",
+        "Law, Sharia, fiqh"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 180,
+      "question": "What is the meaning of the word “enlightenment”?",
+      "options": [
+        "Knowledge",
+        "Desire",
+        "Will",
+        "Love"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 181,
+      "question": "What does the word “qadriyat” mean?",
+      "options": [
+        "Values",
+        "Talk",
+        "Cheap",
+        "Humble"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 182,
+      "question": "How is treated towards people of other religions in Islam?",
+      "options": [
+        "Tolerant",
+        "Radical",
+        "Intolerant",
+        "Indifferent"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 183,
+      "question": "Which of the following definitions best describes the concept of “religious confession”?",
+      "options": [
+        "An independent religion or an independent direction or belief system formed within a religion, an officially recognized religious movement",
+        "A common name for a religious movement or political and social movement",
+        "A local place of worship or religious center in a certain area",
+        "A common belief in any religion or belief system"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 184,
+      "question": "In which country did Baha’iism originate?",
+      "options": [
+        "Iran",
+        "India",
+        "Turkey",
+        "Saudi Arabia"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 185,
+      "question": "Which groups do new religious movements attract?",
+      "options": [
+        "Mostly young people",
+        "Only the elderly",
+        "Only women",
+        "Only the educated"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 186,
+      "question": "What is the name of the main book of Mormons?",
+      "options": [
+        "Book of Mormon",
+        "Bible",
+        "Talmud",
+        "Tipitaka"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 187,
+      "question": "What religion is the International Society for Krishna Consciousness (ISKCON) based on?",
+      "options": [
+        "Hinduism",
+        "Buddhism",
+        "Islam",
+        "Christianity"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 188,
+      "question": "Which of the following definitions is the most accurate and precise description of the Aum Shinrikyo movement?",
+      "options": [
+        "It is known as a dangerous and destructive sect that promotes religious ideas on the outside, but is internally engaged in violence and extremism.",
+        "It was initially a movement based on Buddhism and limited to praying for its followers.",
+        "It is considered a movement that emerged as a new Christian denomination and introduced religious innovations.",
+        "This movement was formed on the basis of Buddhism, but is known as a social movement that promotes peace and ecology"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 189,
+      "question": "What are the main activities of new religious movements (NRMs) aimed at?",
+      "options": [
+        "To promote the views of their leaders",
+        "To revive traditional religions",
+        "To develop scientific research",
+        "To unite international culture"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 190,
+      "question": "What is the main goal of informal religious communities?",
+      "options": [
+        "To fulfill their own selfish goals, materialism",
+        "To gain political power only",
+        "To establish a new religion",
+        "To promote freedom of belief"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 191,
+      "question": "In which country was the Aum Shinrikyo movement founded?",
+      "options": [
+        "Japan",
+        "China",
+        "India",
+        "Korea"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 192,
+      "question": "What doctrines do counterfeit Christian movements promote?",
+      "options": [
+        "Deviation from traditional Christianity",
+        "Strengthening Christianity",
+        "Studying only the holy scriptures",
+        "Tolerance and tolerance"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 193,
+      "question": "According to the Baha’i Faith, what happens every thousand years?",
+      "options": [
+        "A new prophet is sent to earth",
+        "The gates of heaven and hell are opened",
+        "Religious conflicts end",
+        "People adopt a new religion"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 194,
+      "question": "What terrorist act is the Aum Shinrikyo movement famous for?",
+      "options": [
+        "Poison gas attack on the Tokyo subway",
+        "Explosion in the United States",
+        "Atomic bomb in Hiroshima",
+        "Attack on the US embassy"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 195,
+      "question": "Who was the founder of Aum Shinrikyo?",
+      "options": [
+        "Syoko Asahara",
+        "Mirza Husayn Ali Nuri",
+        "Joseph Smith",
+        "Charles Taze Russell"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 196,
+      "question": "What idea do Jehovah’s Witnesses promote?",
+      "options": [
+        "The nearness of the end of time",
+        "Waiting for a new prophet",
+        "The unification of all religions",
+        "The protection of secular values"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 197,
+      "question": "According to Baha’iism, how is the concept of Homeland interpreted?",
+      "options": [
+        "Every place on earth is considered a homeland",
+        "Every nation must fight for its homeland",
+        "The homes in which people live are considered a homeland",
+        "Religion is superior to homeland"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 198,
+      "question": "What method do Jehovah’s Witnesses use in their missionary work?",
+      "options": [
+        "Door-to-door preaching",
+        "Public events only",
+        "Working only in religious schools",
+        "Through financial assistance"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 199,
+      "question": "What title did the founder of the “Mun” (Moon) sect receive?",
+      "options": [
+        "True Father",
+        "Savior Father",
+        "New Prophet",
+        "Just Leader"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 200,
+      "question": "How does the International Society for Krishna Consciousness (ISKCON) carry out missionary work?",
+      "options": [
+        "By singing songs and distributing books on the streets",
+        "By protecting natural resources",
+        "By participating only in international forums",
+        "By supporting political parties"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 201,
+      "question": "According to Baha’i beliefs, how should people live?",
+      "options": [
+        "Free from national boundaries",
+        "Based on traditional values",
+        "Subject to secular government",
+        "Protecting religious symbols"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 202,
+      "question": "Where is the Baha’i Holy House of Worship located?",
+      "options": [
+        "Akka",
+        "Tehran",
+        "Mecca",
+        "Isfahan"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 203,
+      "question": "What is the main ceremony held by Jehovah’s Witnesses?",
+      "options": [
+        "Memorial Day (the Memorial of Christ’s Death)",
+        "Easter",
+        "Bible Presentation Ceremony",
+        "New Year's Eve"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 204,
+      "question": "What is the name of the cave where the first revelation in Islam was revealed?",
+      "options": [
+        "Hira",
+        "Uhud",
+        "Badr",
+        "Hudaybiyah"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 205,
+      "question": "What is Sharia?",
+      "options": [
+        "A system of laws, legal and moral guidelines that are mandatory for all Muslims",
+        "A collection based on hadiths",
+        "A law regulating family relations",
+        "A doctrine that teaches the rules of the Islamic religion"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 206,
+      "question": "What does the word “Jahiliyyah” mean?",
+      "options": [
+        "“Ignorance”, “not knowing the one god – Allah”",
+        "An illiterate person",
+        "Belief in angels",
+        "An angry person"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 207,
+      "question": "How many are the basic conditions or pillars of Islam?",
+      "options": [
+        "5",
+        "7",
+        "10",
+        "4"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 208,
+      "question": "According to Islam, which month is the obligatory fast (sawm) observed?",
+      "options": [
+        "Ramadan",
+        "Sha'ban",
+        "Rabi'ul Awwal",
+        "Muharram"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 209,
+      "question": "What is the status of women in Islam?",
+      "options": [
+        "Women’s rights are defined and men are responsible for them",
+        "Head of the family",
+        "Many privileges are given",
+        "Men are discriminated against"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 210,
+      "question": "What is a kharaj?",
+      "options": [
+        "Tax on state lands",
+        "Customs tax",
+        "Income tax",
+        "Life tax"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 211,
+      "question": "What is religious tolerance?",
+      "options": [
+        "Equality of all religions and believers before the law, free relations between believers and non-believers",
+        "Privileges granted in religious practices",
+        "Freedom of belief and conscience",
+        "Religious fanaticism"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 212,
+      "question": "What is the meaning of the word “secularism”?",
+      "options": [
+        "“Secularism” does not deny either religion or atheism, it recognizes both as objective social phenomena. This concept is based on the principle of pluralism, that is freethinking",
+        "“Secularism” means atheism",
+        "“Secularism” is the denial of the doctrines of religions",
+        "based on atheism"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 213,
+      "question": "How is the religious worldview and the Islamic factor viewed in Uzbekistan?",
+      "options": [
+        "In Uzbekistan, it is recognized that any cultural basis has a certain worldview. The important role of the Islamic factor in the basis of Uzbek traditions is recognized",
+        "The use of the Islamic factor is prohibited",
+        "Attempts are made to eliminate them",
+        "It is considered a negative phenomenon"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 214,
+      "question": "What is the dictionary meaning of the word “iman” (faith)?",
+      "options": [
+        "To believe",
+        "To understand",
+        "To know",
+        "No correct answer"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 215,
+      "question": "Which answer correctly describes the meaning of the word missionary?",
+      "options": [
+        "“sending”, “assignment”",
+        "“Mysterious rites”",
+        "“Manner”",
+        "“Style”"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 216,
+      "question": "Cyberterrorism is -",
+      "options": [
+        "Cyberspace is a reality that represents the space of communication carried out through computer networks, through threats or intimidation, using the Internet to achieve political or ideological success",
+        "Threat the state with military force",
+        "Forcefully destroying and damaging social objects",
+        "Cyberterrorism can also be recognized as the intentional use of computers, networks, and the public Internet to destroy and damage for personal purposes."
+      ],
+      "correct": 0
+    },
+    {
+      "id": 217,
+      "question": "When and where was the active missionary sect Jehovah’s Witnesses founded?",
+      "options": [
+        "In the 1870s in the USA",
+        "In the early 19th century in England",
+        "In Central Asia at the end of the 19th century",
+        "No correct answer"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 218,
+      "question": "What is radicalism?",
+      "options": [
+        "An ideology or belief that calls for radical change in society.",
+        "An organization that carries out terrorist activities",
+        "A form of extremism based on religious belief.",
+        "A political movement that advocates for radical social reforms."
+      ],
+      "correct": 0
+    },
+    {
+      "id": 219,
+      "question": "What is the dictionary meaning of the word “terror”?",
+      "options": [
+        "To intimidate",
+        "To go on a rampage",
+        "To act rashly",
+        "To believe blindly"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 220,
+      "question": "What is a “terrorist group”?",
+      "options": [
+        "An organization that uses violence and threats to achieve political goals",
+        "A group of activists fighting for the rights of national minorities",
+        "A religious movement that promotes violence and extremism",
+        "A political party that opposes the government and its policies"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 221,
+      "question": "Where is the headquarters of the Organization of Islamic Cooperation located?",
+      "options": [
+        "The headquarters is located in Jeddah, Saudi Arabia",
+        "The headquarters is located in Abu Dhabi, United Arab Emirates",
+        "The headquarters is located in Tashkent",
+        "The headquarters is located in Samarkand"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 222,
+      "question": "Where is the headquarters of the Arab League located?",
+      "options": [
+        "In Cairo",
+        "In Qatar",
+        "In the Sultanate of Oman",
+        "In Saudi Arabia"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 223,
+      "question": "What is the highest rank of priesthood in Christianity?",
+      "options": [
+        "Bishop (Greek: overseer)",
+        "Presbyter (Latin: elder)",
+        "Deacon (Greek: servant)",
+        "Cardinal"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 224,
+      "question": "What is the name of the eastern branch of Christianity that represents the true faith?",
+      "options": [
+        "Orthodoxy",
+        "Lutheranism",
+        "Catholicism",
+        "Protestantism"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 225,
+      "question": "Who is the author of “Hikmatlar” (Wisdom)?",
+      "options": [
+        "Yassavi",
+        "Naqshband",
+        "Babur",
+        "Imam al-Bukhari"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 226,
+      "question": "What does the word “confession” (Latin – “confessio”) mean in Uzbek?",
+      "options": [
+        "“to believe”",
+        "“to report”",
+        "“to observe”",
+        "“to force”"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 227,
+      "question": "What is a belief formed within the framework of a specific religious doctrine and having its own characteristics, and a community of followers of this belief called?",
+      "options": [
+        "Religious confession",
+        "Party",
+        "Group",
+        "Sect"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 228,
+      "question": "In which region of our republic is the Imam Bukhari International Research Center located?",
+      "options": [
+        "Samarkand",
+        "Bukhara",
+        "Gijduvan",
+        "Tashkent"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 229,
+      "question": "The sacred book after the Holy Quran ... .",
+      "options": [
+        "Sahih Bukhari",
+        "Tafsir",
+        "History of Islam",
+        "Qiyas (Comparison)"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 230,
+      "question": "What is animism?",
+      "options": [
+        "The belief that nature and spirits are alive.",
+        "The worship of only the spirits of the living.",
+        "The unique characteristic of religions.",
+        "The worship of only natural forces."
+      ],
+      "correct": 0
+    },
+    {
+      "id": 231,
+      "question": "What are the main elements of animism?",
+      "options": [
+        "Ancestor spirits, nature forces, and animal spirits.",
+        "Bird spirits only.",
+        "Nature forces only.",
+        "Animal spirits only."
+      ],
+      "correct": 0
+    },
+    {
+      "id": 232,
+      "question": "Which of the following rituals are considered animistic practices?",
+      "options": [
+        "Offering sacrifices to ancestral spirits.",
+        "Religious rituals only.",
+        "Celebrating the New Year.",
+        "Preserving nature."
+      ],
+      "correct": 0
+    },
+    {
+      "id": 233,
+      "question": "What is the main idea of animism?",
+      "options": [
+        "Nature and all things have a spirit.",
+        "Only living people have a spirit.",
+        "Only ancestral spirits exist.",
+        "Religions do not pay attention to spirituality."
+      ],
+      "correct": 0
+    },
+    {
+      "id": 234,
+      "question": "What is totemism?",
+      "options": [
+        "Belief in animals or natural objects as symbols.",
+        "Worshipping only the spirits of ancestors.",
+        "Worshiping only the forces of nature.",
+        "Beliefs exist among isolated people."
+      ],
+      "correct": 0
+    },
+    {
+      "id": 235,
+      "question": "What do animals or natural objects represent in totemism?",
+      "options": [
+        "Symbols of the tribe or clan.",
+        "Only religious ideas.",
+        "Only the forces of nature.",
+        "Only the spirits of ancestors."
+      ],
+      "correct": 0
+    },
+    {
+      "id": 236,
+      "question": "What actions can be performed in totemism?",
+      "options": [
+        "Belief in the fate or symbol of an animal.",
+        "Creating only artistic works.",
+        "Preserving nature.",
+        "Studying the beliefs that unite people."
+      ],
+      "correct": 0
+    },
+    {
+      "id": 237,
+      "question": "What were animal teeth, bones, or claws used for in totemism?",
+      "options": [
+        "They were used as a means of protection.",
+        "They were used only for decorative purposes.",
+        "They were used only in death rituals.",
+        "They were used only as religious symbols."
+      ],
+      "correct": 0
+    },
+    {
+      "id": 238,
+      "question": "What is fetishism?",
+      "options": [
+        "Attributing supernatural power or meaning to things, objects or natural forces.",
+        "Worshipping only spirits.",
+        "A condition associated only with religious beliefs.",
+        "Attributing the thoughts of lonely people."
+      ],
+      "correct": 0
+    },
+    {
+      "id": 239,
+      "question": "What type of things are believed in fetishism?",
+      "options": [
+        "Natural or artificial objects are given supernatural powers.",
+        "Only animals are believed in.",
+        "Only ancestral spirits are believed in.",
+        "Only the forces of nature are worshipped."
+      ],
+      "correct": 0
+    },
+    {
+      "id": 240,
+      "question": "What objects are used in fetishism?",
+      "options": [
+        "Collected objects or things that embody a certain power or spirit.",
+        "Only religious books.",
+        "Only human bodies.",
+        "Only animal remains."
+      ],
+      "correct": 0
+    },
+    {
+      "id": 241,
+      "question": "What do national religions mean?",
+      "options": [
+        "A religious system based on the culture and values of its people",
+        "A belief system that represents only one religion",
+        "All world religions",
+        "Only respect for nature"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 242,
+      "question": "Which national religion was present in ancient Chinese culture?",
+      "options": [
+        "Confucianism",
+        "Buddhism",
+        "Christianity",
+        "Islam"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 243,
+      "question": "What is the main religious book of Judaism?",
+      "options": [
+        "Tanakh",
+        "Bible",
+        "Quran",
+        "Bhagavad-gita"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 244,
+      "question": "What is the main belief in Judaism?",
+      "options": [
+        "Monotheism (Belief in One God)",
+        "Polytheism",
+        "Animism",
+        "Totemism"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 245,
+      "question": "Which is the holy city for Jews?",
+      "options": [
+        "Jerusalem",
+        "Mecca",
+        "Medina",
+        "Cyprus"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 246,
+      "question": "What is the Jewish place of worship called?",
+      "options": [
+        "Synagogue",
+        "Mosque",
+        "Temple",
+        "Terrace"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 247,
+      "question": "What is one of the most important Jewish holidays?",
+      "options": [
+        "Shabbat",
+        "Salat",
+        "Ramadan",
+        "Travel"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 248,
+      "question": "According to Judaism, how is the name of God defined?",
+      "options": [
+        "Yahweh",
+        "Allah",
+        "Shiva",
+        "Vishnu"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 249,
+      "question": "Who are the greatest religious leaders of the Jews?",
+      "options": [
+        "Rabbis",
+        "Imams",
+        "Popes",
+        "Monks"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 250,
+      "question": "What are the world religions?",
+      "options": [
+        "Buddhism, Christianity, Islam",
+        "Buddhism, Judaism, Shinto",
+        "Christianity, Islam, Protestantism",
+        "Orthodoxy, Catholicism, Brahmanism"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 251,
+      "question": "What is the main religious book of Hinduism?",
+      "options": [
+        "Vedas and Bhagavad-gita",
+        "Quran",
+        "Bible",
+        "Torah"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 252,
+      "question": "Which God is considered the most important in Hinduism?",
+      "options": [
+        "Brahman",
+        "Vishnu",
+        "Shiva",
+        "Ganesha"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 253,
+      "question": "What is reincarnation in Hinduism?",
+      "options": [
+        "Rebirth or the entry of a soul into another body",
+        "End of life",
+        "Religious worship",
+        "Ascension of the soul to heaven"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 254,
+      "question": "What does Confucianism’s concept of “Li” mean?",
+      "options": [
+        "Ritual and order",
+        "Freedom and revolution",
+        "Spiritual growth and knowledge",
+        "Harmony with nature"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 255,
+      "question": "According to Confucius, what should be the relationship between people?",
+      "options": [
+        "Mutual respect and justice",
+        "Universal freedom and equality",
+        "Relations based solely on labor",
+        "Based on religious beliefs"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 256,
+      "question": "What policy did Confucius support?",
+      "options": [
+        "Humane and ethical governance",
+        "Politics based on property and wealth",
+        "Revolutions in action",
+        "Absolute power"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 257,
+      "question": "What should the ideal ruler be like according to Confucius?",
+      "options": [
+        "Moral and just",
+        "Strict and punitive",
+        "Only knowledgeable",
+        "Wealthy and powerful"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 258,
+      "question": "Who was the founder of Taoism?",
+      "options": [
+        "Laozi",
+        "Confucius",
+        "Buddha",
+        "Who"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 259,
+      "question": "What is the concept of “Dao” in Taoism?",
+      "options": [
+        "The natural way or principle of nature",
+        "Spiritual initiative and purpose",
+        "Philosophical system",
+        "Political way of the state"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 260,
+      "question": "According to Taoism, how should a person live?",
+      "options": [
+        "Living in harmony with nature and living naturally",
+        "Pursuing worldly wealth",
+        "Rapid growth and development",
+        "Only making social reforms"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 261,
+      "question": "What are the core values of Taoism?",
+      "options": [
+        "Peace, respect for nature, and self-realization",
+        "The acquisition of wealth and power",
+        "Strict adherence to religious beliefs",
+        "The consolidation of political power"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 262,
+      "question": "What are “Yin” and “Yang” in Taoism?",
+      "options": [
+        "Two opposing but complementary forces of vibrations",
+        "Worldly good and evil",
+        "Spiritual growth and goal attainment",
+        "Two separate entities in nature"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 263,
+      "question": "What is one of the main concepts of Shintoism?",
+      "options": [
+        "Harmony with nature and all beings",
+        "Achieving worldly goals",
+        "Performing special rituals for spiritual development",
+        "Following religious laws"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 264,
+      "question": "What kinds of prayers and rituals are there in Shinto?",
+      "options": [
+        "Nature-related rituals and initiation ceremonies",
+        "Only political prayers",
+        "Scientific research and scientific rituals",
+        "Reading and interpretation of religious books"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 265,
+      "question": "What are the deities or objects of worship in Shinto?",
+      "options": [
+        "Spirits of nature, plants, animals, and ancestors",
+        "Only one deity or object of worship",
+        "Individuals with spiritual superiority",
+        "Something that completely ignores nature"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 266,
+      "question": "What works do the Vedas represent?",
+      "options": [
+        "A collection of religious and philosophical sciences",
+        "Ancient historical writings",
+        "Scientific and philosophical books",
+        "A collection of secular laws"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 267,
+      "question": "Which religious tradition is based on the Vedas?",
+      "options": [
+        "Hinduism",
+        "Buddhism",
+        "Jainism",
+        "Zoroastrianism"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 268,
+      "question": "What was the purpose of writing the Vedas?",
+      "options": [
+        "Spiritual growth, religious rituals, and learning about life",
+        "Strengthening political power",
+        "Learning about new scientific discoveries",
+        "Creating religious laws"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 269,
+      "question": "What was the language of the Vedas?",
+      "options": [
+        "Sanskrit",
+        "Chinese",
+        "Greek",
+        "Aramaic"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 270,
+      "question": "Who is considered the founder of Buddhism?",
+      "options": [
+        "Buddha",
+        "Zoroaster (Zarathustra)",
+        "Confucius",
+        "Laozi"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 271,
+      "question": "What is “Nirvana” in Buddhism?",
+      "options": [
+        "The state of enlightenment, peace and spiritual liberation",
+        "Entry into heaven after death",
+        "The return of the human spirit to life",
+        "Restoration of physical health"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 272,
+      "question": "What is the purpose of the “Four Noble Truths” in Buddhism?",
+      "options": [
+        "Explaining the problems in the world and ways to overcome them",
+        "Explaining human mortality",
+        "Teaching how to be good people",
+        "Studying the history of Uzbekistan"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 273,
+      "question": "What is meant by “Sangha” in Buddhism?",
+      "options": [
+        "Buddhist community or religious group",
+        "Buddha himself",
+        "Buddhist religious book",
+        "Name of God"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 274,
+      "question": "What is “Dharma” in Buddhism?",
+      "options": [
+        "A Guide to Living a Good Life",
+        "A Book Written by the Buddha",
+        "Analysis of Human Karma",
+        "Life After Death"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 275,
+      "question": "What is a “Sutra” in Buddhism?",
+      "options": [
+        "Religious texts and teachings of Buddhism",
+        "Rituals in Buddhism",
+        "Spiritual guide in Buddhism",
+        "Collection of books to read in Buddhism"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 276,
+      "question": "In which country is Zen Buddhism most prevalent as a main branch?",
+      "options": [
+        "Japan",
+        "Thailand",
+        "Cambodia",
+        "India"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 277,
+      "question": "What is the branch in Buddhism called the Great Wheel?",
+      "options": [
+        "Mahayana",
+        "Shia",
+        "Sunni",
+        "Sadduceanism"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 278,
+      "question": "What is Samsara?",
+      "options": [
+        "The cycle of rebirth, the birth, death, and rebirth of beings",
+        "A cycle of life that exists only for humans",
+        "A final state that exists in Buddhism",
+        "The connection between the world and everything in it"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 279,
+      "question": "How can samsara end?",
+      "options": [
+        "By attaining Nirvana",
+        "By complete detachment from the world",
+        "By renouncing all materialistic things",
+        "By fully realizing one's own self"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 280,
+      "question": "What are the main holidays celebrated in Christianity?",
+      "options": [
+        "Easter and Christmas",
+        "Ramadan and Eid al-Fitr",
+        "Hanukkah and Purim",
+        "Diwali and Holi"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 281,
+      "question": "What is required to achieve salvation in Christianity?",
+      "options": [
+        "Believe in Jesus Christ and follow his advices",
+        "Overcome all people in the world",
+        "Protect all animals",
+        "Respect other religions"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 282,
+      "question": "In which century did Christianity begin?",
+      "options": [
+        "1st century",
+        "2nd century",
+        "3rd century",
+        "4th century"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 283,
+      "question": "Who was the founder of Christianity?",
+      "options": [
+        "Jesus Christ",
+        "Paul",
+        "Peter",
+        "John"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 284,
+      "question": "What is the name of the holy book of Christianity?",
+      "options": [
+        "Bible",
+        "Quran",
+        "Torah",
+        "Vedas"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 285,
+      "question": "Who is understood as an “Apostle” in Christianity?",
+      "options": [
+        "Direct disciples of Jesus Christ",
+        "Individuals who have received the Holy Spirit",
+        "Leaders who manage religious affairs among people",
+        "People who spread religious teachings in Christianity"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 286,
+      "question": "Who is a “Bishop” in Christianity?",
+      "options": [
+        "A high-ranking cleric who leads many communities",
+        "A leader of young Christians",
+        "A holy person recognized by the Catholic clergy",
+        "A person who has transformed religious knowledge into doctrine"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 287,
+      "question": "What are the two largest main branches of Christianity?",
+      "options": [
+        "Catholic and Orthodox",
+        "Protestant and Catholic",
+        "Protestant and Orthodox",
+        "Catholic and Evangelical"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 288,
+      "question": "What is missionary work?",
+      "options": [
+        "The activity of spreading and teaching a religion or belief to other people",
+        "Creating a new religious doctrine",
+        "Having a religious conversation with close friends",
+        "Studying the history of a religion"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 289,
+      "question": "What does missionary mean?",
+      "options": [
+        "The word “missio” comes from Latin and means “to send”, “to assign”,",
+        "To travel",
+        "To pray",
+        "To perform a ceremony"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 290,
+      "question": "What is the purpose of missionary work?",
+      "options": [
+        "To persuade people to a religious belief other than their own",
+        "To hold religious services only within their own community",
+        "To celebrate religious holidays",
+        "To spread religion only to certain groups"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 291,
+      "question": "In which religion has missionary activity been actively developed?",
+      "options": [
+        "Christianity",
+        "Hinduism",
+        "Buddhism",
+        "Judaism"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 292,
+      "question": "What are new religious movements?",
+      "options": [
+        "Religious movements that are based on existing religions and introduce new beliefs and practices",
+        "Revival of ancient religious teachings",
+        "Creation of new religious writings",
+        "The organization's sole purpose is to provide social service"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 293,
+      "question": "What is proselytism?",
+      "options": [
+        "Attempting to convert other people to a religious belief or group",
+        "Creating new religious traditions",
+        "Celebrating religious holidays",
+        "Fighting against religious traditions"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 294,
+      "question": "Who is the chairman of the Muslim Board of Uzbekistan?",
+      "options": [
+        "Mufti",
+        "Imam",
+        "Qazi (qadi)",
+        "Mudarris"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 295,
+      "question": "What activities do religious organizations carry out in Uzbekistan?",
+      "options": [
+        "Religious worship, rituals, education, charity",
+        "Active social assistance",
+        "Political activity",
+        "Financial assistance"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 296,
+      "question": "Islom hamkorlik tashkilotining asosiy maqsadi nima?",
+      "options": [
+        "Islom davlatlari o‘rtasidagi hamkorlikni mustahkamlash va diniy hamjihatlikni rivojlantirish",
+        "Yangi iqtisodiy tizimlar yaratish",
+        "Diniy ta'limni rivojlantirish",
+        "Siyosiy partiyalarni tashkil etish"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 297,
+      "question": "What is the main goal of the Organization of Islamic Cooperation?",
+      "options": [
+        "To strengthen cooperation and develop religious harmony among Islamic countries",
+        "To create new economic systems",
+        "To develop religious education",
+        "To establish political parties"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 298,
+      "question": "What is religious fanaticism?",
+      "options": [
+        "Absolute devotion to religious beliefs",
+        "Living exclusively Christian values",
+        "Respecting one's religious traditions",
+        "Celebrating religious holidays"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 299,
+      "question": "What is extremism?",
+      "options": [
+        "Instigating societal change through radical ideas and activities",
+        "Respecting human rights",
+        "Uniting society",
+        "Reforming tax systems"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 300,
+      "question": "What is fundamentalism?",
+      "options": [
+        "Adherence to ancient and rigid original forms of religious beliefs",
+        "Support for modernity",
+        "Creation of new religious movements",
+        "Responsibility for other beliefs"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 301,
+      "question": "How does the religious form of terrorism manifest itself?",
+      "options": [
+        "Spreading religious views by force, intimidating people, and carrying out attacks",
+        "Teaching new religions",
+        "Celebrating religious holidays",
+        "Creating new religious organizations"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 302,
+      "question": "What is the main goal of ensuring the balance of secular and religious knowledge?",
+      "options": [
+        "Maintaining the balance between religion and science in society and ensuring social stability",
+        "Strengthening the political system",
+        "Restricting civil rights",
+        "Developing international cooperation"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 303,
+      "question": "What is secular education?",
+      "options": [
+        "An education system that teaches scientific, practical and social knowledge",
+        "An education system that teaches religious beliefs",
+        "Teaching only political knowledge",
+        "Teaching philosophical knowledge"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 304,
+      "question": "What is religious knowledge?",
+      "options": [
+        "Knowledge that teaches religious beliefs, values, practices, rituals and religious history",
+        "Scientific, applied, and technological knowledge",
+        "Political systems and governance knowledge",
+        "Economic knowledge"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 305,
+      "question": "What is the difference between religious knowledge and secular knowledge?",
+      "options": [
+        "Religious knowledge is based on beliefs and practices, while secular knowledge is based on science and practice",
+        "Religious knowledge is based only on history",
+        "Secular knowledge is based only on politics",
+        "Religious knowledge is focused only on economics"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 306,
+      "question": "What is the impact of religious knowledge on changes in society?",
+      "options": [
+        "Religious teachings help to strengthen social peace, develop tolerance",
+        "Increase religious divisions in society",
+        "Create political conflicts",
+        "Limit human rights"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 307,
+      "question": "How can religious knowledge be learned?",
+      "options": [
+        "By reading religious texts, books, studying religious rituals and teachings",
+        "By participating in active economic activities",
+        "By supporting political parties",
+        "By writing scientific works"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 308,
+      "question": "Why is a balance between secular knowledge and religious faith important?",
+      "options": [
+        "Religious and scientific views can complement each other and ensure peace in society",
+        "Setting science and religion against each other",
+        "Strengthening religious fundamentalism",
+        "Creating division between people"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 309,
+      "question": "What dangers in society does combining secular knowledge and religious teachings reduce?",
+      "options": [
+        "Reducing radicalism and extremism, eliminating religious conflicts",
+        "The emergence of new religious movements in society",
+        "Paralyzing the social education system",
+        "Intensifying religious crises"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 310,
+      "question": "What is one example of an Islamic extremist group?",
+      "options": [
+        "Islamic State of Iraq and the Levant (ISIL)",
+        "“Phosphorus”",
+        "“European Union”",
+        "“Protestantism”"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 311,
+      "question": "What methods do radical groups use?",
+      "options": [
+        "Violence, terrorism and creating political conflict",
+        "Expanding human rights",
+        "Maintaining peace",
+        "Creating an open political system"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 312,
+      "question": "What does the word “Messiah” added to the name Jesus mean?",
+      "options": [
+        "Anointed",
+        "Wise",
+        "Forgiving of Sin",
+        "Wisdom"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 313,
+      "question": "What miracle is Jesus Christ known for?",
+      "options": [
+        "Raising the dead",
+        "Moving mountains",
+        "Stopping the sun",
+        "Drying up the sea"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 314,
+      "question": "What important doctrinal issue was discussed at the Council of Nicaea (325)?",
+      "options": [
+        "The divinity of Jesus Christ and the doctrine of the Trinity",
+        "The importance of the Holy Spirit",
+        "The date of Easter",
+        "The Protestant Reformation"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 315,
+      "question": "What do the bread and wine represent at the Last Supper of Jesus Christ?",
+      "options": [
+        "His body and blood",
+        "A sign of cleansing from sins",
+        "The beginning of the New Covenant",
+        "The last gospel"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 316,
+      "question": "Who performs “Forgiveness of Sins” in the Catholic Church?",
+      "options": [
+        "Priest",
+        "Every believer",
+        "Only the Pope of the Vatican",
+        "Directly by the Holy Spirit"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 317,
+      "question": "Fill in the blanks. … - is a method of ruling on issues that are not stated in the Quran and Hadith by comparing them with previous rulings. In this, scholars study issues similar to the issue being studied in the text of reliable sources.",
+      "options": [
+        "Qiyas (Comparison)",
+        "Ijma",
+        "Ra’y",
+        "Istihsan"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 318,
+      "question": "Who is called a “Sufi” in the science of Sufism?",
+      "options": [
+        "An ascetic and pious person",
+        "A Master",
+        "A Wise Man",
+        "A Disciple"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 319,
+      "question": "How many stages are there in Sufism to reach the level of truth?",
+      "options": [
+        "Four stages",
+        "One stage",
+        "Three stages",
+        "Five stages"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 320,
+      "question": "Which period did the first stage of development of Sufism fall into?",
+      "options": [
+        "Abbasid period",
+        "Umayyad period",
+        "Mongol period",
+        "Ottoman period"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 321,
+      "question": "What is one of the main principles of Sufism?",
+      "options": [
+        "Inner purification and approaching Allah",
+        "Acquiring wealth",
+        "Strengthening political position",
+        "Creating works of art"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 322,
+      "question": "Who are Sufis?",
+      "options": [
+        "Individuals who seek spiritual purification and divine truth",
+        "People who seek worldly wealth",
+        "Those who are exclusively engaged in scientific research",
+        "Political leaders"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 323,
+      "question": "The word “Madinah” held a very important place in Islamic history, especially after the migration of the Prophet Muhammad. This city became a religious and political center for Muslims. What is the meaning of the word “Madinah”?",
+      "options": [
+        "City",
+        "Country",
+        "Motherland",
+        "Place"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 324,
+      "question": "In what ways do Islamic values benefit society?",
+      "options": [
+        "In spiritual, moral and cultural development",
+        "Only in the economic sphere",
+        "Only in political processes",
+        "Only in increasing power"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 325,
+      "question": "What is the main religious faith of the International Society for Krishna Consciousness (ISKCON)?",
+      "options": [
+        "Recognition of Krishna",
+        "Salvation through meditation",
+        "Studying only the Vedas",
+        "Struggle against the material world"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 326,
+      "question": "What does the word “Islam” mean?",
+      "options": [
+        "Submission to Allah, obedience.",
+        "Muslim, Muslim, Musurman",
+        "Confidence, deep, strong faith",
+        "Upbringing, faith"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 327,
+      "question": "Find the line that shows the months of the Hijri calendar.",
+      "options": [
+        "Sha'ban, Safar, Ramadan",
+        "Rabi'ul Awwal, Hamal, Rajab. March",
+        "Muharram, Hatt, Jum'ul Awwal. April",
+        "Jum'ul Awwal, Ramadan, Cancer. May"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 328,
+      "question": "Identify the answer that shows the magazines of the religious organization “Jehovah’s Witnesses”?",
+      "options": [
+        "“Watchtower” and “Awake”",
+        "“Sugdiana”",
+        "“Mirror”",
+        "“World Christian Encyclopedia”"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 329,
+      "question": "What is one of the most important prayers in Judaism?",
+      "options": [
+        "Synagogue prayers",
+        "Ramadan prayers",
+        "Going on the Hajj",
+        "Umra"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 330,
+      "question": "The Tripitaka is the holy book of which religion?",
+      "options": [
+        "Buddhism",
+        "Christianity",
+        "Judaism",
+        "Islam"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 331,
+      "question": "Which holiday is related to Hinduism?",
+      "options": [
+        "Diwali",
+        "Passover",
+        "Yom Kippur",
+        "Rosh Hashanah"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 332,
+      "question": "What are the main principles of Shintoism?",
+      "options": [
+        "Respect for nature and life",
+        "Only remember the gods",
+        "Creating new religious rules and beliefs",
+        "Pursuing one's own interests"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 333,
+      "question": "What places are considered sacred in Shintoism?",
+      "options": [
+        "Nature, mountains and sacred places",
+        "Religious temples and mosques",
+        "Special gatherings of people",
+        "Political places and government buildings"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 334,
+      "question": "On what basis are moral rules formed in Shintoism?",
+      "options": [
+        "Respect for nature and society",
+        "Based on religious words and books",
+        "Based on government decisions",
+        "Only by following one's own interests"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 335,
+      "question": "What spiritual beliefs are there in Shintoism?",
+      "options": [
+        "Living in harmony with life and nature, the sacredness of everything",
+        "A new worldview and the realization of worldly goals",
+        "Spiritual growth only through religious prayers",
+        "Relying on scientific knowledge to guide one's life"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 336,
+      "question": "What is the branch called the small wheel in Buddhism?",
+      "options": [
+        "Hinayana",
+        "Shia",
+        "Sunni",
+        "Sadducees"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 337,
+      "question": "Why is the Buddhist holiday “Vesak” celebrated?",
+      "options": [
+        "The birth, death and attainment of nirvana of the Buddha",
+        "The Buddhist New Year",
+        "The main Buddhist ceremony",
+        "The publication of a Buddhist book"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 338,
+      "question": "What is the relationship between samsara and nirvana in Buddhism?",
+      "options": [
+        "Samsara is the cycle of birth and death, and nirvana is the exit from this cycle and complete liberation",
+        "Samsara is the beginning of the world, nirvana is the end of the world",
+        "Samsara brings good, nirvana removes evil",
+        "Samsara and nirvana are interchangeable states"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 339,
+      "question": "How is God understood in Christianity?",
+      "options": [
+        "Consists of three persons in one (Father, Son, Holy Spirit)",
+        "One God as a single being",
+        "God is described as both male and female at the same time",
+        "God exists only in nature"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 340,
+      "question": "Who is a “Bishop” in Christianity?",
+      "options": [
+        "A high-ranking cleric who leads many communities",
+        "A leader of young Christians",
+        "A holy person recognized by the Catholic clergy",
+        "A person who has transformed religious knowledge into doctrine"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 341,
+      "question": "What is the compensatory function of religion?",
+      "options": [
+        "Satisfying human spiritual needs",
+        "Government of society",
+        "Strengthening belief in supernatural forces",
+        "Formation of religious values"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 342,
+      "question": "What are the primitive forms of religious belief?",
+      "options": [
+        "Fetishism, animism, totemism, magic",
+        "Materialism and idealism",
+        "Ontology and axiology",
+        "Skepticism and empiricism"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 343,
+      "question": "What is the main task of religious knowledge?",
+      "options": [
+        "Explaining the unity of the world and humanity",
+        "Theoretical substantiation of scientific knowledge",
+        "Explanation of natural laws",
+        "Development of the system of governance of society"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 344,
+      "question": "The religious method of knowing is …..?",
+      "options": [
+        "Belief and trust",
+        "Scientific research",
+        "Daily experience",
+        "Philosophical observation"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 345,
+      "question": "The communicative function of religion ....?",
+      "options": [
+        "Provides a certain type of communication and interpersonal relationships",
+        "Provides the observance of religious practices",
+        "Provides the integrity of faith and purity of conscience",
+        "Provides freedom of conscience"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 346,
+      "question": "What was the main goal of the Protestant Reformation?",
+      "options": [
+        "To reform against the wealth and power in the Church",
+        "To unite with the Orthodox Church",
+        "To rewrite the Bible",
+        "To strengthen Catholicism"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 347,
+      "question": "What type of Christianity branch is the Anglican Church?",
+      "options": [
+        "A form between Protestantism and Catholicism",
+        "A completely independent new faith",
+        "Only part of Orthodoxy",
+        "A movement loyal to the Pope"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 348,
+      "question": "Why is the “Rosary” used in the Catholic Church?",
+      "options": [
+        "To pray to the Blessed Mother Mary",
+        "To worship the Holy Trinity",
+        "To use during Easter",
+        "To worship Jesus Christ"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 349,
+      "question": "How is the “Prayer to the Cross” ceremony performed in Orthodoxy?",
+      "options": [
+        "By making the sign of the cross on the chest, forehead and praying in a special way",
+        "By reading the Bible",
+        "By fasting and giving alms",
+        "By singing a hymn dedicated to the Holy Spirit"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 350,
+      "question": "What is a “Mission” in Catholicism?",
+      "options": [
+        "The main ritual for serving God",
+        "An event held only at Christmas",
+        "The beginning of Lent",
+        "A movement against Protestantism"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 351,
+      "question": "Why is the “Liturgy” important in Orthodoxy?",
+      "options": [
+        "To celebrate the sacraments and prayers in church",
+        "To read the Bible during Lent",
+        "To pray according to the Protestant tradition",
+        "To go on a pilgrimage to Jerusalem"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 352,
+      "question": "What is the main form of worship in Protestant churches?",
+      "options": [
+        "Reading the Injil and singing",
+        "Carrying the cross",
+        "Using the rosary",
+        "Observance of complete silence"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 353,
+      "question": "How is Epiphany celebrated in Orthodox churches?",
+      "options": [
+        "Water consecration and purification ceremony",
+        "Starts with fasting",
+        "Regarded as the birthday of Jesus Christ",
+        "Celebrated only with the reading of the gospel"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 354,
+      "question": "What ceremony is considered the “center of the sacred mysteries” in Catholicism?",
+      "options": [
+        "Eucharist",
+        "Rosary",
+        "Baptism",
+        "Pilgrimage"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 355,
+      "question": "What is the name of the ceremony dedicated to the birthday of the Prophet Muhammad?",
+      "options": [
+        "Mawlid",
+        "Eid al-Fitr",
+        "Eid al-Adha",
+        "Khudoyi"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 356,
+      "question": "What are the main practical and ritual requirements in Islam?",
+      "options": [
+        "Belief, prayer, fasting, giving zakat, and pilgrimage for those who can afford it",
+        "Following the 7 obligations",
+        "Funeral, funeral, Ashura, Nowruz, marriage.",
+        "Sunnah, Bibi-Shanba, Irim-Sirim"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 357,
+      "question": "What is Sharia?",
+      "options": [
+        "A system of laws, legal and moral guidelines that are mandatory for all Muslims",
+        "A collection based on hadiths",
+        "A law regulating family relations",
+        "A doctrine that teaches the rules of the Islamic religion"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 358,
+      "question": "Judaism has sacred writings. What are its main sources?",
+      "options": [
+        "Tanakh and Talmud",
+        "Bible and Torah",
+        "Old Testament and Bible",
+        "Torah and Old Testament"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 359,
+      "question": "What are the castes (classes) of Brahmin society?",
+      "options": [
+        "Brahmins, Kshatriyas, Vaishyas, Shudras.",
+        "Vaishyas and Brahmins.",
+        "Brahmins, Kshatriyas,",
+        "Not divided into castes."
+      ],
+      "correct": 0
+    },
+    {
+      "id": 360,
+      "question": "Identify the main source of Confucianism?",
+      "options": [
+        "“Lun-Yu”",
+        "“Zhent”",
+        "“Zhu”",
+        "“Xiao”"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 361,
+      "question": "The philosophical principles of Taoism are set forth in the book “Dao-Dejin”. Who was the author of this book?",
+      "options": [
+        "Lao-Tzu",
+        "Xuan-Yuan",
+        "Yin-Wen",
+        "Tian-Pen"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 362,
+      "question": "Where was the homeland of Zoroaster Spitama?",
+      "options": [
+        "Khorezm",
+        "Bukhara",
+        "Kashkadarya",
+        "Bactria"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 363,
+      "question": "The main source of Zoroastrianism?",
+      "options": [
+        "Avesta",
+        "Quran",
+        "Bible",
+        "Torah"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 364,
+      "question": "Identify the components of the Avesta?",
+      "options": [
+        "Consists of 5 books: “Videvdat”, “Visparad”, “Yasht”, “Yasna”, Khorde Avesta",
+        "Consists of 3 books: “Videvdat”, “Yasna”, “Yasht”.",
+        "Consists of 2 books: “Videvdat”, “Dinkart”.",
+        "Consists of 2 books: “Dinkart”, “Yasht”."
+      ],
+      "correct": 0
+    },
+    {
+      "id": 365,
+      "question": "The founder of Buddhism was Buddha. What does this name mean?",
+      "options": [
+        "Enlightened.",
+        "Personal name.",
+        "Family name",
+        "Celebrator."
+      ],
+      "correct": 0
+    },
+    {
+      "id": 366,
+      "question": "What does the term Protestantism mean?",
+      "options": [
+        "Protest (disagreement)",
+        "Generosity",
+        "Consent",
+        "Latter-day Saints"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 367,
+      "question": "What does the word “Rasul-Prophet” mean in Arabic?",
+      "options": [
+        "Messenger",
+        "Reporter",
+        "Good news",
+        "Ambassador"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 368,
+      "question": "What does taboo mean?",
+      "options": [
+        "Prohibition",
+        "Spirit and Soul",
+        "Magician",
+        "Our Own"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 369,
+      "question": "What is faith based on in Zoroastrianism?",
+      "options": [
+        "Three: purity of thoughts, constancy of words, humanity of deeds.",
+        "Two: purity of thoughts, constancy of words",
+        "Two: purity of thoughts, humanity of deeds.",
+        "One: humanity of deeds."
+      ],
+      "correct": 0
+    },
+    {
+      "id": 370,
+      "question": "Identify the main source of Buddhism?",
+      "options": [
+        "«Tripitaka»",
+        "«Avesta»",
+        "«Bible»",
+        "«Torah»"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 371,
+      "question": "What are the Sufi tariqats prevalent in Central Asia?",
+      "options": [
+        "Naqshbandi, Kubrawi",
+        "Kubrawi",
+        "Yasawi",
+        "Naqshbandi"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 372,
+      "question": "Kojiki is an ancient book of scriptures. This book is considered the holy book of which religion?",
+      "options": [
+        "Shintoism",
+        "Buddhism",
+        "Taoism",
+        "Hinduism"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 373,
+      "question": "Define the meaning of the word Rabbi?",
+      "options": [
+        "My master",
+        "Wise",
+        "Elder brother",
+        "Brother"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 374,
+      "question": "Where is the homeland of Zoroastrianism?",
+      "options": [
+        "Khorezm",
+        "Bukhara",
+        "Kashkadarya",
+        "Bactria"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 375,
+      "question": "In which of the following sources are qualities such as knowledge, loyalty to a friend and truthfulness glorified?",
+      "options": [
+        "In hadiths",
+        "In hymns",
+        "In epics",
+        "In fairy tales"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 376,
+      "question": "Define the structure of religion.",
+      "options": [
+        "A complex social system consisting of a combination of religious consciousness, religious worship and religious organizations",
+        "Belief in mythological ideas",
+        "Belief in the transmigration of the human soul into another body",
+        "Belief in the separate existence of the human body and soul"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 377,
+      "question": "What is religious consciousness?",
+      "options": [
+        "A nihilistic approach in which the superiority of certain religious ideas over secular ideas and other religious beliefs is recognized and preached above all other ideas",
+        "Belief in mythological ideas",
+        "Belief in the separate existence of the human body and soul",
+        "Belief in the transmigration of the human soul into another body"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 378,
+      "question": "What are the forms of religion that have been formed in the process of social development?",
+      "options": [
+        "Polytheistic, henotheistic, monotheistic, tribal, national and world religions",
+        "totemism",
+        "fetishism",
+        "magic"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 379,
+      "question": "What are the areas of religious studies?",
+      "options": [
+        "Philosophy of religion, phenomenology of religion, history of religion, anthropology of religion, sociology of religion, psychology of religion",
+        "Esotericism",
+        "Exoterism",
+        "Occultism"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 380,
+      "question": "What is the theology?",
+      "options": [
+        "The doctrine about the essence and will of God",
+        "The doctrine about Gods in the form of half-human, half-animal",
+        "The doctrine about the inner spiritual education of man",
+        "The doctrine that denies religious ideas"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 381,
+      "question": "What is Theosophy?",
+      "options": [
+        "A body of ideas about a formless, one, all-encompassing God, about the divine essence of all things, claiming to reveal the greatest divine secrets.",
+        "A body of occult knowledge",
+        "A body of esoteric knowledge",
+        "A body of mythological knowledge"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 382,
+      "question": "What is the phenomenology of religion?",
+      "options": [
+        "It studies the recurring structures in different religions, the basic elements that help establish a connection with the divine, as well as subjective and objective phenomena as a result of this connection (communication).",
+        "Belief in divine deities",
+        "A collection of occult knowledge",
+        "A collection of mythological knowledge"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 383,
+      "question": "What is the anthropology of religion?",
+      "options": [
+        "studies the place of religion in concrete, cultural and ethnic contexts",
+        "the body of occult knowledge",
+        "the body of mythological knowledge",
+        "the deification of animals"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 384,
+      "question": "What is the sociology of religion?",
+      "options": [
+        "studies the influence of religion on the formation of social groups in society, as well as the relationship between religion and politics, religion and government",
+        "The body of mythological knowledge",
+        "The body of occult knowledge",
+        "Belief in Hermetic knowledge"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 385,
+      "question": "According to the doctrine of Theosophy……",
+      "options": [
+        "The purpose of human life is freedom, and according to it, the human body undergoes reincarnation after death according to the process of karma",
+        "Body and soul are real",
+        "Man is a talking animal",
+        "Man is a divine being"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 386,
+      "question": "Piety (godliness) is.....?",
+      "options": [
+        "It is a person’s connection with a certain religion, his level of connection with this religion and spiritual affiliation",
+        "The doctrine of the identity of body and soul",
+        "The doctrine of the divine existence of man",
+        "Worship of idols"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 387,
+      "question": "Religious pluralism is .....",
+      "options": [
+        "promotes the harmonious coexistence and interaction of adherents of all religious beliefs or denominations in one society.",
+        "Views on religious conflict",
+        "The doctrine of the divine existence of man",
+        "The doctrine of social progress"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 388,
+      "question": "What do the Vedas mean?",
+      "options": [
+        "“sacred knowledge”",
+        "migration",
+        "death",
+        "life"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 389,
+      "question": "Identify the components of the Vedas.",
+      "options": [
+        "Rigveda (“Veda of Hymns”); Samaveda (“Veda of Songs”); Yajurveda (“Veda of Sacrifices”); Atharvaveda (“Veda of Spells and Magic”).",
+        "Book of the Dead, Book of the Emerald Tablet",
+        "Book of Pomanders",
+        "Book of Repentance"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 390,
+      "question": "What is the meaning of Upanishad?",
+      "options": [
+        "Upanishad (Sanskrit) means to sit with a teacher to know the truth",
+        "Renouncing the world",
+        "Worshiping God",
+        "Worshiping idols"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 391,
+      "question": "What are the gods embodied in Hinduism?",
+      "options": [
+        "Brahma, the creator of the universe, Vishnu, the preserver of the world, Shiva, the destroyer of the universe",
+        "Ra, Osiris",
+        "Ahriman, Ahuramazda",
+        "Mercury, Hermes"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 392,
+      "question": "In the doctrine of Jainism.....",
+      "options": [
+        "The soul is an eternal being, the universe is eternal. The soul can overcome the material body and achieve eternal life.",
+        "The soul is eternal, the universe is eternal.",
+        "The universe was created.",
+        "God controls the universe."
+      ],
+      "correct": 0
+    },
+    {
+      "id": 393,
+      "question": "According to Taoism ....",
+      "options": [
+        "Everything in the world is changing, some things appear in motion, while others disappear",
+        "Things in the world are immutable",
+        "The existence of things in the world is related to human consciousness",
+        "The existence of things in the world is denied"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 394,
+      "question": "The holy book of Shinto is....",
+      "options": [
+        "The Kojiki is the holy book of Shinto, which contains the idea of blood-tribal unity and political power",
+        "Book of Changes",
+        "Book of the Dead",
+        "Book of the Poems"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 395,
+      "question": "According to the main idea of the Zoroastrian religion...",
+      "options": [
+        "All order in the world depends on the struggle between good and evil, light and darkness, life and death",
+        "Only evil acts in the world",
+        "Only good acts in the world",
+        "Goodness is not inherent in humans"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 396,
+      "question": "What ideas are promoted in Zoroastrianism?",
+      "options": [
+        "It promotes a loving attitude towards nature, earth, water, all living things, trees and plants",
+        "It promotes polytheism",
+        "It promotes doing good",
+        "It promotes doing evil"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 397,
+      "question": "What is the role of Ahura Mazda in Zoroastrianism?",
+      "options": [
+        "He commands people to do good deeds and calls them to avoid evil deeds.",
+        "He calls people to worship",
+        "He calls people to renounce the world",
+        "He teaches people to be generous"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 398,
+      "question": "The truths of Buddhism are...",
+      "options": [
+        "Life consists of suffering, there are causes of suffering, it is possible to get rid of suffering, the way to eliminate suffering is the Buddha’s true knowledge, true thinking, true speech, etc.",
+        "The struggle between good and evil",
+        "The idea of the living nature",
+        "The idea of polytheism"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 399,
+      "question": "The essence of the Buddha’s doctrine is....",
+      "options": [
+        "The idea that life is suffering and there is no way out of it",
+        "The idea that life is only pleasure and there is a place for man in it",
+        "The idea that life is only happiness and comfort",
+        "The idea that life has no meaning"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 400,
+      "question": "The main ideas of Christianity",
+      "options": [
+        "Monotheism, the incarnation of God as an absolutely perfect essence",
+        "Polytheism",
+        "Incarnation of suffering",
+        "Renunciation of pleasure"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 401,
+      "question": "What is the essence of the concept religious confession?",
+      "options": [
+        "A form of worship or belief within a particular religious doctrine, as well as a community of believers in a particular religion.",
+        "Only Christian organizations",
+        "Only Buddhist organizations",
+        "Only Islamic organizations"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 402,
+      "question": "What is the meaning of the concept secularization?",
+      "options": [
+        "Secularization (from the Latin “saecularis” – “worldly”) is the process of freeing the individual and collective consciousness from the influence of a high level of religion.",
+        "The process of denial of religion",
+        "The process of crisis in religion",
+        "The development of extremist ideas in religion"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 403,
+      "question": "What is a religious sect?",
+      "options": [
+        "These are groups that stand out in opposition to the official beliefs of a particular religion or that operate under the banner of religion, while generally having no connection with existing religions and denominations",
+        "The process of denial of religion",
+        "The development of extremist ideas in religion",
+        "The process of crisis in religion"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 404,
+      "question": "Baptism is….",
+      "options": [
+        "Baptism (Greek baptizo – immersion) – a direction of Protestantism founded by J. Smith at the beginning of the 17th century.",
+        "The process of crisis in religion",
+        "The development of extremist ideas in religion",
+        "The denial of religion"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 405,
+      "question": "According to baptism......",
+      "options": [
+        "only adults are allowed to perform the baptism ceremony, and no one, not even their parents, can force a person to choose a religion, a person must enter religion consciously",
+        "Extremist ideas are developing in religion",
+        "The process of crisis in religion",
+        "Rejection of religion"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 406,
+      "question": "Where does cyberterrorism manifest its activities?",
+      "options": [
+        "On social networks “Facebook”, “Odnoklassniki”, “Vkontakte”, “Twitter\", “Youtube”",
+        "On television programs and radio broadcasts",
+        "During live conversations with people",
+        "During meetings"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 407,
+      "question": "What is ecumenism?",
+      "options": [
+        "Ecumenism (Greek, inhabited world) is the ideology of the unity of all Christians, the ecumenical movement is an activity for the unity of all Christians, for mutual understanding and cooperation of Christian confessions.",
+        "Only the ideas of the Catholic Church",
+        "Only the ideas of the Orthodox branch",
+        "Ecumenism has nothing to do with religious activity"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 408,
+      "question": "What are the advantages of the Internet for terrorists?",
+      "options": [
+        "Easy access to the Internet, large number of users, anonymity of communication, limited external control and editing, rapid dissemination of information over a wide area in a short period of time and several times lower operating costs.",
+        "The possibility of influencing through words is great",
+        "The possibility of intimidating citizens",
+        "The possibility of manipulating the minds of young people"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 409,
+      "question": "What does information consumption culture mean?",
+      "options": [
+        "It refers to the system of knowledge and skills that serve to receive, sort, understand and interpret information from the information flow, which serves human interests, development and social development.",
+        "System of cultural relations",
+        "Culture of participation in conferences",
+        "Method of communication between states"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 410,
+      "question": "What is proselytism?",
+      "options": [
+        "To convert others to one’s religion, to spread one’s beliefs, to be extremely devoted to a newly adopted doctrine even in a mobile sense.",
+        "It means a preacher",
+        "It means belonging to two religions",
+        "It means uniting believers"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 411,
+      "question": "What does proselytism mean?",
+      "options": [
+        "It refers to the actions aimed at persuading a citizen who believes in one religion to abandon his own religion and accept another religion. By its very nature, it is considered an integral part of missionary work.",
+        "It means uniting believers",
+        "It means belonging to two religions",
+        "It means a preacher"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 412,
+      "question": "What is religious fanaticism?",
+      "options": [
+        "It is considered to be a rejection of the doctrines and rules of a particular religion, practiced by its representatives, and to interpret religious concepts in a way that contradicts the doctrines of the Sharia and urges others to follow them",
+        "Frenzy game",
+        "A method of using Hermetic knowledge",
+        "Divine man"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 413,
+      "question": "In religious fundamentalism…....",
+      "options": [
+        "recognizes the literal statement of thought, which is recited word for word, rather than the study of the meaning of the sacred books based on logical arguments.",
+        "Uses hermetic knowledge",
+        "Glorifies the game",
+        "Man is deified"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 414,
+      "question": "What is sacralization?",
+      "options": [
+        "sacralization - giving a religious connotation to objects, phenomena and forms outside the sphere of religion, deifying them",
+        "The form of family relationships",
+        "Manipulation of the consciousness of young people",
+        "Mass propaganda"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 415,
+      "question": "What is desacralization?",
+      "options": [
+        "The return of secular nature to phenomena considered religious, that is the opposite of sacralization",
+        "Mass propaganda",
+        "The form of family relationships",
+        "Manipulation of the mind of young people"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 416,
+      "question": "Identify the forms of religious fanaticism?",
+      "options": [
+        "Such forms as unquestioning adherence to religious norms and beliefs (monasticism), asceticism, religious fanaticism and extreme ignorance are distinguished.",
+        "Mass propaganda",
+        "Manipulation of the minds of young people",
+        "Family environment"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 417,
+      "question": "What does Christian theology represent?",
+      "options": [
+        "Christian theology represents a holistic system of ideas about the Universe and nature",
+        "Expresses the creation of man",
+        "Expresses the Day of Judgement",
+        "Expresses the importance of religiosity"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 418,
+      "question": "“Kamikaze” is…..",
+      "options": [
+        "It is a combination of the Japanese words “kami” – “god” and “kaze” – “wind”, meaning “divine wind”",
+        "A group of criminals",
+        "A method of arresting people",
+        "A method of intentionally killing people"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 419,
+      "question": "What was the first mosque built by Muslims in Medina?",
+      "options": [
+        "Quba Mosque",
+        "Juma Mosque",
+        "Sultan Ahmad Mosque",
+        "Sultan Mehmed Mosque"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 420,
+      "question": "How many periods does the history of Sufism consist of?",
+      "options": [
+        "The history of Sufism is divided into three stages: these are the period of asceticism, the period of Sufism (Sufi mysticism) and the period of Sufi brotherhoods (tariqat).",
+        "The period of asceticism in one stage",
+        "The period of Sufism in one stage",
+        "The period of Sufi brotherhoods and asceticism in two stages"
+      ],
+      "correct": 0
+    }
+  ]
